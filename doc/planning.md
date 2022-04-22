@@ -5,7 +5,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 ## Meilensteine
 
 | Nr. | Meilenstein                                        | Datum    | Status 
-| --- | -------------------------------------------------- | -------- | --------
+| --: | -------------------------------------------------- | -------- | --------
 |  1  | Projektantrag genehmigt                            | 10.02.22 | Erledigt
 |  2  | Review I / Kick Off mit Experten                   | 20.05.22 | Geplant
 |  3  | Grundlagen und Vorbereitung Experimente erstellt   | 31.05.22 | Offen
