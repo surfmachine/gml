@@ -22,7 +22,7 @@ Januar    | Erste Einarbeitung, Antrag erstellen               |  2 Tage
 Februar   | Folienpräsentation Antrag und Präsentation         |  1 Tag   
 März      | Systematische Recherche, Literaturauswahl          |  2 Tage  
 April     | Grundlagen Graphen und Link Prediction             | 10 Tage  
-Mai       | Extraktion und Anonimisierung Testdaten EDC,Bereitstellung Umgebung, Auswahl Python Libraries
+Mai       | Extraktion und Anonimisierung Testdaten EDC,Bereitstellung Umgebung, Auswahl Python Libraries | 9 Tage
 Juni      | Taxonomie und erste Experimente Link Prediction    |  8 Tage  
 Juli      | Bewertung und Vergleich Experimente                |  8 Tage  
 August    | Bericht                                            |  4 Tage  
