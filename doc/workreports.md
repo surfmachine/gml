@@ -2,20 +2,20 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 # Arbeitsrapporte
 
-## Übersicht
+## Auswertung
 
- Zeitraum  | Aufwand Soll | Aufwand Ist  | Total Soll   | Total Ist
+ Zeitraum  | Aufwand Soll | Total Soll   | Aufwand Ist  | Total Ist
 ---------- | -----------: | -----------: | -----------: | -----------:
-Q4/21-Q1/22|      40.00 h |      40.50 h |      40.00 h |      40.50 h
-März/April |      96.00 h |              |     136.00 h |
-Mai        |      72.00 h |              |     208.00 h |
-Juni       |      64.00 h |              |     272.00 h |
-Juli       |      64.00 h |              |     336.00 h |
-August     |      32.00 h |              |     368.00 h |
-September  |      32.00 h |              |     400.00 h |
+Q4/21-Q1/22|      40.00 h |      40.00 h |      40.50 h |      40.50 h
+März/April |      96.00 h |     136.00 h |     |
+Mai        |      72.00 h |     208.00 h |     |
+Juni       |      64.00 h |     272.00 h |     |
+Juli       |      64.00 h |     336.00 h |     |
+August     |      32.00 h |     368.00 h |     |
+September  |      32.00 h |     400.00 h |     |
 
 
-## Rapporte
+## Aufwände
 
 ### Antrag Master Thesis 
 
@@ -41,8 +41,7 @@ Total    |   40.50h | Aufwand
 16.04.22 |    3.00h | Einlesen in Grundlagen Graphen
 18.04.22 |    6.00h | Programmierung Basisklassen, Graph, GraphBuilder und GraphViz
 19.04.22 |    7.00h | Programmierung Notebook 01 Graph Intro
-22.04.22 |    2.00h | Projektplanung, Meilensteine und Setup Git Projekt
-
+22.04.22 |    3.00h | Projektplanung, Meilensteine und Setup Git Projekt
 
 ---
 [Zum Hauptmenu](../README.md)
