@@ -5,8 +5,8 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 **Inhalt**
 
 - Projektinhalt
-  - [Projektantrag](doc/Themenantrag-MT-FS22-ThomasIten-V10-Public.pdf)
-  - [Projektantrag Präsentation](doc/Themenantrag-Pr%C3%A4sentation-V10.pdf)
+  - [Themenantrag](doc/Themenantrag-MT-FS22-ThomasIten-V10-Public.pdf)
+  - [Präsentation Themenantrag](doc/Themenantrag-Pr%C3%A4sentation-V10.pdf)
 
 - Organisation
   - [Arbeitspakete](doc/workpackages.md)
