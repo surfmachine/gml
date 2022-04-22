@@ -41,7 +41,7 @@ Total    |   40.50h | Aufwand
 16.04.22 |    3.00h | Einlesen in Grundlagen Graphen
 18.04.22 |    6.00h | Programmierung Basisklassen, Graph, GraphBuilder und GraphViz
 19.04.22 |    7.00h | Programmierung Notebook 01 Graph Intro
-22.04.22 |    3.00h | Projektplanung, Meilensteine und Setup Git Projekt
+22.04.22 |    3.00h | Projektplanung, Meilensteine, Setup Git Projekt
 
 ---
 [Zum Hauptmenu](../README.md)
