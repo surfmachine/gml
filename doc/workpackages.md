@@ -19,7 +19,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 ### 1. Themenantrag
 
-**Aufgaben:**
+**Aufgaben:**<br />
 Themenselektion, Betreuer Firma suchen, Themenselektion, Recherche zu Themen,
 Auswahl Thema und Erstellung Themenantrag. Besuch der WAW Pflichtmodule.
 
@@ -31,7 +31,7 @@ Auswahl Thema und Erstellung Themenantrag. Besuch der WAW Pflichtmodule.
 
 ## 2. Systematische Recherche und Literaturauswahl
 
-**Aufgaben:**
+**Aufgaben:**<br />
 TODO
 
 **Ergebnisse:**
@@ -40,7 +40,7 @@ TODO
 
 ## 3. Grundlangen erarbeiten
 
-**Aufgaben:**
+**Aufgaben:**<br />
 TODO
 
 **Ergebnisse:**
@@ -49,7 +49,7 @@ TODO
 
 ## 4. Testdaten erstellen
 
-**Aufgaben:**
+**Aufgaben:**<br />
 TODO
 
 **Ergebnisse:**
@@ -58,7 +58,7 @@ TODO
 
 ## 5. Testumgebung bereitstellen
 
-**Aufgaben:**
+**Aufgaben:**<br />
 TODO
 
 **Ergebnisse:**
@@ -67,7 +67,7 @@ TODO
 
 ## 6. Taxonomie Link Prediction 
 
-**Aufgaben:**
+**Aufgaben:**<br />
 TODO
 
 **Ergebnisse:**
@@ -76,7 +76,7 @@ TODO
 
 ## 7. Experimente durchführen
 
-**Aufgaben:**
+**Aufgaben:**<br />
 TODO
 
 **Ergebnisse:**
@@ -85,7 +85,7 @@ TODO
 
 ## 8. Auswertungen erstellen
 
-**Aufgaben:**
+**Aufgaben:**<br />
 TODO
 
 **Ergebnisse:**
@@ -94,7 +94,7 @@ TODO
 
 ## 9. Bericht und Bookeintrag verfassen
 
-**Aufgaben:**
+**Aufgaben:**<br />
 TODO
 
 **Ergebnisse:**
@@ -103,7 +103,7 @@ TODO
 
 ## 10. Präsentation erstellen
 
-**Aufgaben:**
+**Aufgaben:**<br />
 TODO
 
 **Ergebnisse:**
