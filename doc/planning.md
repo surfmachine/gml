@@ -11,7 +11,8 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 |  3  | Grundlagen und Vorbereitung Experimente erstellt   | 31.05.22 | Offen
 |  4  | Experimente sind durchgeführt                      | 31.07.22 | Offen
 |  5  | Review II mit Experten                             | 19.08.22 | Geplant
-|  6  | Abgabetermin Master Thesis                         | 26.09.22 | Offen
+|  6  | Abgabetermin Master Thesis und Bookeintrag         | 26.09.22 | Offen
+|  7  | Präsentation und Verteidigung                      | Okt. 22  | Offen
 
 ## Grobplanung
 
@@ -26,7 +27,7 @@ Mai       | Extraktion und Anonimisierung Testdaten EDC,Bereitstellung Umgebung,
 Juni      | Taxonomie und erste Experimente Link Prediction    |  8 Tage  
 Juli      | Bewertung und Vergleich Experimente                |  8 Tage  
 August    | Bericht                                            |  4 Tage  
-September | Bericht und Bookeintrag                            |  4 Tage  
+September | Bericht, Bookeintrag und Präsentation erstellen    |  4 Tage  
 
 **Total Aufwand geplant: 50 Tage / 400 Stunden**
 
