@@ -14,6 +14,7 @@ Juli       |      64.00 h |     336.00 h |     |
 August     |      32.00 h |     368.00 h |     |
 September  |      32.00 h |     400.00 h |     |
 
+Die Soll Aufwände ergeben sich auch der [Planung](planning).
 
 ## Aufwände
 

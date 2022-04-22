@@ -6,7 +6,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 1. Themenantrag
 2. Systematische Recherche und Literaturauswahl
-3. Grundlangen erarbeiten
+3. Grundlagen erarbeiten
 4. Testdaten erstellen
 5. Testumgebung bereitstellen
 6. Taxonomie Link Prediction 
@@ -38,7 +38,7 @@ TODO
 - TODO
 
 
-## 3. Grundlangen erarbeiten
+## 3. Grundlngen erarbeiten
 
 **Aufgaben:**<br />
 TODO
