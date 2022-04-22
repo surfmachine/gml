@@ -1,24 +1,13 @@
+Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master Thesis FS/2022 Thomas Iten
+
+# Planung
+
+## Grobplanung
 
 
-# Planung und Arbeitsrapporte
-
-**Inhaltsverzeichnis**
-- [Aufgabe](#Aufgabe)
-  - [Problemstellung](#Problemstellung)
-  - [Lösungsansatz](#Lösungsansatz)
-- [Planung](#Planung)
-- [Arbeitsrapporte](#Arbeitsrapporte)
-  
-[Zurück zum Hauptmenu](../README.md)
 
 
-## Aufgabe
-
-### Problemstellung
-
-### Lösungsansatz
-
-## Planung
+## Meilensteine
 
 ### Antrag Master Thesis
 
@@ -29,7 +18,21 @@
  3.0 | Einreichung Antrag Master Thesis                      | 24.01.22 | Erledigt
  3.1 | Präsentation für Antrag erstellen                     | 31.01.22 | Erledigt
  3.2 | Vortstellung Master Thesis Antrag                     | 10.02.22 | Erledigt
- 4.0 | Recherche, Beschaffung Literatur für Einarbeitung     | Feb. 22  | ==TODO==
+
+
+
+
+## Arbeitsrapporte
+
+### Antrag Master Thesis
+
+ Nr. | Arbeitsschritte                                       | Datum    | Status
+---- | ----------------------------------------------------- | -------- | -----------
+ 1.0 | Themenauswahl, Recherche und erster Entwurf Antrag    | 31.12.21 | Erledigt
+ 2.0 | Erste Recherche und Einarbeitung in Thema             | 16.01.22 | Erledigt
+ 3.0 | Einreichung Antrag Master Thesis                      | 24.01.22 | Erledigt
+ 3.1 | Präsentation für Antrag erstellen                     | 31.01.22 | Erledigt
+ 3.2 | Vortstellung Master Thesis Antrag                     | 10.02.22 | Erledigt
 
 
 ### Master Thesis
@@ -59,4 +62,4 @@ Total    |   40.50h | Aufwand
 
 
 ---
-[Zum Seitenanfang](#Planung-und-Arbeitsrapporte)  &nbsp; | &nbsp;  [Zum Hauptmenu](../README.md)
+[Zum Hauptmenu](../README.md)

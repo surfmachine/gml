@@ -2,23 +2,24 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 # Graph Machine Learning
 
+**Inhalt**
 
-## Inhalt
+- Projektinhalt
+  - [Projektantrag]
+  - [Projektantrag Präsentation]
+
 - Projektorganisation
-  - [Projektskizze](doc/Projektskizze.md)
-  - [Planung und Arbeitsrapporte](doc/Planung.md)
+  - [Planung / Meilensteine](doc/planning.md)
+  - [Arbeitsrapporte](doc/workreports.md)
 - Projektaufbau
-  - [Installation](doc/Installation.md) 
-  - [Projektstrukur](doc/Projektstruktur.md)
+  - [Installation]
+  - [Projektstrukur]
 - Projektarbeiten  
-  - [Grundlagen](doc/Grundlagen.md) 
-  - [Testdaten](doc/Testdaten.md) 
-  - [Modelle](doc/Modelle.md)
-  - [Performance](doc/Performance.md) 
-- [Ergebnisse](doc/Ergebnisse.md)
-- [Referenzen](doc/Referenzen.md)
-
-
+  - [Grundlagen]
+  - [Testdaten]
+  - [Experimente]
+- [Ergebnisse]
+- [Referenzen](doc/references.md)
 
 ---
-[Zum Seitenanfang](#Planung-und-Arbeitsrapporte)  &nbsp; | &nbsp;  [Zum Hauptmenu](../README.md)
+_The end._
