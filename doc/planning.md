@@ -28,7 +28,7 @@ Juli      | Bewertung und Vergleich Experimente                |  8 Tage
 August    | Bericht                                            |  4 Tage  
 September | Bericht und Bookeintrag                            |  4 Tage  
 
-**Total Aufwand geplant: 50 Tage**
+**Total Aufwand geplant: 50 Tage / 400 Stunden**
 
 ---
 [Zum Hauptmenu](../README.md)
