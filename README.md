@@ -1,7 +1,7 @@
-# Graph Neuronal Networks
+Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master Thesis FS/2022 Thomas Iten
 
-Master Thesis MAS Data Science der Berner Fachhochschule BFH. <br />
-FS/2022, Thomas Iten
+# Graph Machine Learning
+
 
 ## Inhalt
 - Projektorganisation
