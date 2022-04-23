@@ -43,6 +43,7 @@ Total    |   40.50h | Aufwand
 18.04.22 |    6.00h | Programmierung Basisklassen, Graph, GraphBuilder und GraphViz
 19.04.22 |    7.00h | Programmierung Notebook 01 Graph Intro
 22.04.22 |    3.00h | Projektplanung, Meilensteine, Setup Git Projekt
+23.04.22 |    2.00h | Programmierung Notebook 02 Graph Matrix
 
 ---
 [Zum Hauptmenu](../README.md)
