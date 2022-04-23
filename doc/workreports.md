@@ -4,15 +4,15 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 ## Auswertung
 
- Zeitraum  | Aufwand Soll | Total Soll   | Aufwand Ist  | Total Ist
----------- | -----------: | -----------: | -----------: | -----------:
-Q4/21-Q1/22|      40.00 h |      40.00 h |      40.50 h |      40.50 h
-März/April |      96.00 h |     136.00 h |     |
-Mai        |      72.00 h |     208.00 h |     |
-Juni       |      64.00 h |     272.00 h |     |
-Juli       |      64.00 h |     336.00 h |     |
-August     |      32.00 h |     368.00 h |     |
-September  |      32.00 h |     400.00 h |     |
+Zeitraum   | Aufwand Soll |  Total Soll | Aufwand Ist |   Total Ist
+---------- | -----------: | ----------: | ----------: | ----------:
+Q4/21-Q1/22|       40.00h |      40.00h |      40.50h |      40.50h
+März/April |       96.00h |     136.00h |     |
+Mai        |       72.00h |     208.00h |     |
+Juni       |       64.00h |     272.00h |     |
+Juli       |       64.00h |     336.00h |     |
+August     |       32.00h |     368.00h |     |
+September  |       32.00h |     400.00h |     |
 
 Die Soll Aufwände ergeben sich aus der [Grobplanung](planning.md).
 
@@ -44,6 +44,12 @@ Total    |   40.50h | Aufwand
 19.04.22 |    7.00h | Programmierung Notebook 01 Graph Intro
 22.04.22 |    3.00h | Projektplanung, Meilensteine, Setup Git Projekt
 23.04.22 |    2.00h | Programmierung Notebook 02 Graph Matrix
+24.04.22 |    2.00h | Programmierung Notebook 03 Graph Edge List
+
+26.04.22 |   10.00h
+29.04.22 |    3.00h
+29.04.22 |    7.00h
+             43.00h
 
 ---
 [Zum Hauptmenu](../README.md)
