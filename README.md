@@ -14,8 +14,8 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   - [Arbeitsrapporte](doc/workreports.md)
 
 - Projektaufbau
-  - [Installation]
-  - [Projektstrukur]
+  - [Installation](doc/installation.md)
+  - [Projektstrukur](doc/structure.md)
 
 - Projektarbeiten  
   - [Grundlagen]
