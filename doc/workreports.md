@@ -35,7 +35,7 @@ Dez. 21  |   16.00h | Themenauswahl, Recherche und erster Entwurf Themenantrag
 10.02.11 |    0.50h | Präsentation für Themenantrag an BFH
 Total    |   40.50h | Aufwand
 
-### März/April
+### April
 
  Datum   | Aufwand  | Arbeit
 -------- | -------- | ---------------------------------------------------------------
