@@ -59,22 +59,24 @@ Installation und Konfiguration von Visual Studio Code.
 1. Start VS Code
 2. Installation der Python Extension
    
-   Auf der linken Seite den Plugin Button klicken
+   Auf der linken Seite den Plugin Button klicken<br />
    ![](img/installation-vscode-1.png)<br />
 
-   Im Suchfeld "Python" eingeben
+   Im Suchfeld "Python" eingeben<br />
    ![](img/installation-vscode-2.png)<br />
    
-   "Python" Plugin wählen und installieren
+   "Python" Plugin wählen und installieren<br />
    ![](img/installation-vscode-3.png)<br />
      
    Beachte: Mit dem "Python" Plugin wird auch das "Jupiter Notebook" Plugin installiert.
 
 3. Auswahl eines Python Interpreter 
-   - Tasten Kombination Ctrl+Shift+P klicken 
-     ![](img/installation-vscode-4.png)<br />
-   - Die Interpreter Auswahl sieht man anschliessend in der VS Code Fusszeile links
-     ![](img/installation-vscode-5.png)<br />
+   Tasten Kombination Ctrl+Shift+P klicken<br /> 
+   ![](img/installation-vscode-4.png)<br />
+   
+   Die Interpreter Auswahl sieht man anschliessend in der VS Code Fusszeile links<br />
+   ![](img/installation-vscode-5.png)<br />
+   
 4. Weitere Informationen siehe:
    https://code.visualstudio.com/docs/python/python-tutorial
 
