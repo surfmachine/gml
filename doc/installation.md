@@ -39,8 +39,8 @@ Miniconda ist ein frei verfügbares minimales Installationsprogramm für Conda. 
    ```
    ./Miniconda3-latest-Linux-x86_64.sh
    ```
-   ![](img/installation-miniconda-linux-1.png)
-   ![](img/installation-miniconda-linux-2.png)
+   ![](img/installation-miniconda-linux-1.png)<br />
+   ![](img/installation-miniconda-linux-2.png)<br />
    ![](img/installation-miniconda-linux-3.png)
 
 
@@ -59,17 +59,17 @@ Installation und Konfiguration von Visual Studio Code.
 1. Start VS Code
 2. Installation der Python Extension
    - Auf der linken Seite den Plugin Button klicken
-   ![](img/installation-vscode-1.png)
+     ![](img/installation-vscode-1.png)<br />
    - Im Suchfeld "Python" eingeben 
-   ![](img/installation-vscode-2.png)
+     ![](img/installation-vscode-2.png)<br />
    - "Python" Plugin wählen und installieren
-   ![](img/installation-vscode-3.png)
-   Beachte: Mit dem "Python" Plugin wird auch das "Jupiter Notebook" Plugin installiert.
+     ![](img/installation-vscode-3.png)<br />
+     Beachte: Mit dem "Python" Plugin wird auch das "Jupiter Notebook" Plugin installiert.
 3. Auswahl eines Python Interpreter 
    - Tasten Kombination Ctrl+Shift+P klicken 
-   ![](img/installation-vscode-4.png)
+     ![](img/installation-vscode-4.png)<br />
    - Die Interpreter Auswahl sieht man anschliessend in der VS Code Fusszeile links
-   ![](img/installation-vscode-5.png)
+     ![](img/installation-vscode-5.png)<br />
 4. Weitere Informationen siehe:
    https://code.visualstudio.com/docs/python/python-tutorial
 
