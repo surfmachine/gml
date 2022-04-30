@@ -41,10 +41,12 @@ Total    |   40.50h | Aufwand
 -------- | -------- | ---------------------------------------------------------------
 16.04.22 |    3.00h | Einlesen in Grundlagen Graphen
 18.04.22 |    6.00h | Programmierung Basisklassen, Graph, GraphBuilder und GraphViz
-19.04.22 |    7.00h | Programmierung Notebook 01 Graph Intro
+19.04.22 |    7.00h | Programmierung Notebook01-Graph-Intro
 22.04.22 |    3.00h | Projektplanung, Meilensteine, Setup Git Projekt
-23.04.22 |    2.00h | Programmierung Notebook 02 Graph Matrix
-24.04.22 |    2.00h | Programmierung Notebook 03 Graph Edge List
+23.04.22 |    2.00h | Programmierung Notebook02-Graph-Matrix
+24.04.22 |    2.00h | Programmierung Notebook03-Graph-Edge List
+26.04.22 |    4.50h | Installation GraphDB, Einführungstutorial SPARQL
+30.04.22 |    6.00h | Programmierung Notebook04-Graph-Metrics 
 
 26.04.22 |   10.00h
 29.04.22 |    3.00h
