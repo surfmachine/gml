@@ -22,11 +22,11 @@ Dezember  | Themenwahl, erste Recherchen, WAW                  |  2 Tage
 Januar    | Erste Einarbeitung, Antrag erstellen               |  2 Tage  
 Februar   | Folienpräsentation Antrag und Präsentation         |  1 Tag   
 April     | Systematische Recherche, Literaturauswahl, Grundlagen Graphen | 5 Tage  
-Mai       | Grundlagen Link Prediction, Extraktion und Anonimisierung Testdaten EDC,Bereitstellung Umgebung, Auswahl Python Libraries | 14 Tage
+Mai       | Grundlagen Link Prediction, Extraktion und Anonimisierung Testdaten EDC,Bereitstellung Umgebung, Auswahl Python Libraries | 12 Tage
 Juni      | Taxonomie und erste Experimente Link Prediction    |  8 Tage  
 Juli      | Bewertung und Vergleich Experimente                |  8 Tage  
 August    | Bericht                                            |  6 Tage  
-September | Bericht, Bookeintrag und Präsentation erstellen    |  4 Tage  
+September | Bericht, Bookeintrag und Präsentation erstellen    |  6 Tage  
 
 **Total Aufwand geplant: 50 Tage / 400 Stunden**
 

@@ -7,12 +7,12 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 Zeitraum   | Aufwand Soll |  Total Soll | Aufwand Ist |   Total Ist
 ---------- | -----------: | ----------: | ----------: | ----------:
 Q4/21-Q1/22|       40.00h |      40.00h |      40.50h |      40.50h
-März/April |       96.00h |     136.00h |     |
-Mai        |       72.00h |     208.00h |     |
-Juni       |       64.00h |     272.00h |     |
-Juli       |       64.00h |     336.00h |     |
-August     |       32.00h |     368.00h |     |
-September  |       32.00h |     400.00h |     |
+März/April |       40.00h |      80.00h |      34.00h |      74.50h
+Mai        |       96.00h |     176.00h |     |
+Juni       |       64.00h |     240.00h |     |
+Juli       |       64.00h |     304.00h |     |
+August     |       48.00h |     352.00h |     |
+September  |       48.00h |     400.00h |     |
 
 Die Soll Aufwände ergeben sich aus der [Grobplanung](planning.md).
 
@@ -46,12 +46,14 @@ Total    |   40.50h | Aufwand
 23.04.22 |    2.00h | Programmierung Notebook02-Graph-Matrix
 24.04.22 |    2.00h | Programmierung Notebook03-Graph-Edge List
 26.04.22 |    4.50h | Installation GraphDB, Einführungstutorial SPARQL
-30.04.22 |    6.00h | Programmierung Notebook04-Graph-Metrics 
+30.04.22 |    6.50h | Programmierung Notebook04-Graph-Metrics 
+Total    |   34.00h | Aufwand
 
-26.04.22 |   10.00h
-29.04.22 |    3.00h
-29.04.22 |    7.00h
-             43.00h
+### Mai
+
+ Datum   | Aufwand  | Arbeit
+-------- | -------- | ---------------------------------------------------------------
+01.05.22 |    3.00h | Recherche, Installationsprobleme C++ Compiler auf Windows
 
 ---
 [Zum Hauptmenu](../README.md)
