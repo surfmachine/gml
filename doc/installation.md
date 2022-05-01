@@ -6,7 +6,8 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 Die Anleitung beschreibt die Schritte zur Installation von Python (mit Hilfe von Miniconda) und einer Entwicklungsumgebung (VS Code) für Linux oder Windows und umfasst folgende Punkte:
 - Software (Miniconda, VS Code, GIT)
 - Projekt Setup
-- Häufige Befehle
+- Befehle (Cheatsheet)
+- Fehlerbehebung 
 
 Für die Ausführung des Projektes kann natürlich auch eine andere Python Installation und Entwicklungsumgebung (wie zum Beipiel PyCharm/IntelliJ) eingesetzt werden.
 
@@ -114,7 +115,7 @@ Installation und Konfiguration von Visual Studio Code.
    mkdir worksapce
    ```
 
-2. Clone Projekt
+3. Clone Projekt
    ```
    git clone https://github.com/surfmachine/gml.git 
    ```
@@ -127,13 +128,16 @@ Installation und Konfiguration von Visual Studio Code.
    conda activate gml
    conda list
    ```
+
 5. Projekt im VS Code öffnen
    - File Open Folder... wählen
    - Projektverzeichins "gml" auswählen 
+
 6. Python Umgebung im VS Code auf "gml" setzen
    - Tasten Kombination Ctrl+Shift+P klicken
    - Python: Select Interpreter wählen (ggf. im Suchfeld Python eingeben)
    - Die Interpreter Auswahl sieht man anschliessend in der VS Code Fusszeile. 
+
 7. Falls neue Packages installiert werden sollen:
    - Package Name und Version im environment.yml eintragen
    - Dann Umgebung aktivieren und aktualisieren:
@@ -143,6 +147,12 @@ Installation und Konfiguration von Visual Studio Code.
      conda env update -f .\environment.yml
      ```
 
+8. Beachte: Für die Installation auf Windows wird ein C++ Compiler Version 14.0 oder grösser benötigt, falls dieser noch nicht vorhanden ist, müssen folgende Schritte ausgeführt werden:
+   a. Open link: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+   b. Download Build Tools
+   c. Start vs_buildtools__....exe
+   d. Further details see: https://stackoverflow.com/questions/44951456/pip-error-microsoft-visual-c-14-0-is-required
+ 
 ## Häufige Befehle
 
 ### Conda / Miniconda
@@ -204,6 +214,41 @@ Befehle                              | Beschreibung
 Ctrl + Shift + P                     | Start Command Panel
 Ctrl + NumPadAdd                     | Menu: View / Appereance / Zoom In
 Ctrl + -                             | Menu: View / Appereance / Zoom Out
+
+
+## FAQ / Fehlerbehebung
+
+### Installation C++ 14.0 or greater (on Windows)
+1. Open link: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+2. Download Build Tools
+3. Start vs_buildtools__....exe
+4. Further details see: https://stackoverflow.com/questions/44951456/pip-error-microsoft-visual-c-14-0-is-required
+
+
+### Error: building 'Levenshtein._levenshtein' extension (on Windows)
+
+Fehlermeldung:
+```
+building 'Levenshtein._levenshtein' extension (on Windows)
+error: Microsoft Visual C++ 14.0 or greater is required. 
+Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+```
+
+Lösung:
+> https://stackoverflow.com/questions/44951456/pip-error-microsoft-visual-c-14-0-is-required
+
+
+### Error: link.exe' failed with exit code 1158 (on Windows)
+
+Fehlermeldung:
+```
+link.exe' failed with exit code 1158
+```
+
+Lösung:
+> https://stackoverflow.com/questions/43858836/python-installing-clarifai-vs14-0-link-exe-failed-with-exit-status-1158
+
+
 
 ---
 [Zum Hauptmenu](../README.md)
