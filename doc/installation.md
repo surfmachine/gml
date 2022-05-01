@@ -148,10 +148,10 @@ Installation und Konfiguration von Visual Studio Code.
      ```
 
 8. Beachte: Für die Installation auf Windows wird ein C++ Compiler Version 14.0 oder grösser benötigt, falls dieser noch nicht vorhanden ist, müssen folgende Schritte ausgeführt werden:
-   a. Open link: https://visualstudio.microsoft.com/visual-cpp-build-tools/
-   b. Download Build Tools
-   c. Start vs_buildtools__....exe
-   d. Further details see: https://stackoverflow.com/questions/44951456/pip-error-microsoft-visual-c-14-0-is-required
+   - Open link: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+   - Download Build Tools
+   - Start vs_buildtools__....exe
+   - Further details see: https://stackoverflow.com/questions/44951456/pip-error-microsoft-visual-c-14-0-is-required
  
 ## Häufige Befehle
 
