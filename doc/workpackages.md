@@ -4,7 +4,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 ## Übersicht
 
- # | Storie                                         | Status
+Nr | Storie                                         | Status
 -- | ---------------------------------------------- | ------------ 
  1 | Themenantrag                                   | Erledigt
  2 | Systematische Recherche und Literaturauswahl   | in Arbeit
