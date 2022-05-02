@@ -3,14 +3,14 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 # Projektstruktur
 
 ## Übersicht
-Das Projekt ist wie folgt organisiert:
 
-Verzeichnis             | Inhalt
------------------------ | ----------------------------------------------------------  
-[doc](../doc)           | Dokumentation
-[graph](../libs)        | Python Graph Source Code
-[notebooks](../measure) | Python Notebooks 
-[tests](../tests)       | Python Unit Tests
+Verzeichnis                  | Inhalt
+---------------------------- | ----------------------------------------------------------  
+[doc](../doc)                | Dokumentation
+[graph](../graph)            | Python Graph Basis Klassen
+[notebooks](../notebooks)    | Python Notebooks 
+[playground](../playground)  | Python Snippets und Drafts
+[tests](../tests)            | Python Unit Tests
 
 
 ---
