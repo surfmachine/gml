@@ -7,8 +7,8 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
  #  | Storie                                         | Status
 --- | ---------------------------------------------- | ------------ 
  1. | Themenantrag                                   | Erledigt
- 2. | Systematische Recherche und Literaturauswahl   | **in Arbeit**
- 3. | Grundlagen erarbeiten                          | **in Arbeit**
+ 2. | Systematische Recherche und Literaturauswahl   | in Arbeit
+ 3. | Grundlagen erarbeiten                          | in Arbeit
  4. | Testdaten erstellen                            | Bereit zur Ausführung
  5. | Testumgebung bereitstellen                     | zu Erstellen
  6. | Taxonomie Link Prediction                      | zu Erstellen
