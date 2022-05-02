@@ -14,11 +14,11 @@ Erledigte Arbeiten:
 - Definition [Arbeitspackete 1-4](workpackages.md)
 - Erstellung und Anpassung [Grobplanung](planning.md)
 - Erstellung [Installationsanweisung](installation.md) und Definition [Projektstruktur](structure.md)
-- Implementation [Basis Klassen](graph/) graph, graph_viz, graph_builder, graph_utils
-- Implementation [Notebook 01 Graph Intro](notebooks/nb01-graph-intro.ipynb)
-- Implementation [Notebook 02 Graph Matrix](notebooks/nb02-graph-matrix.ipynb)
-- Implementation [Notebook 03 Graph Edge List](notebooks/nb03-graph-edge-list.ipynb)
-- Implementation [Notebook 04 Graph Metrics](notebooks/nb04-graph-metrics.ipynb)
+- Implementation [Basis Klassen](../graph/) graph, graph_viz, graph_builder, graph_utils
+- Implementation [Notebook 01 Graph Intro](../notebooks/nb01-graph-intro.ipynb)
+- Implementation [Notebook 02 Graph Matrix](../notebooks/nb02-graph-matrix.ipynb)
+- Implementation [Notebook 03 Graph Edge List](../notebooks/nb03-graph-edge-list.ipynb)
+- Implementation [Notebook 04 Graph Metrics](../notebooks/nb04-graph-metrics.ipynb)
 
 Nächste Schritte:
 - Grundlagen Grahp Machine Learning 
