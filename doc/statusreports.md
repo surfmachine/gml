@@ -1,6 +1,6 @@
 Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master Thesis FS/2022 Thomas Iten
 
-# Arbeitsrapporte
+# Statusberichte
 
 ## April 2022
 
@@ -10,18 +10,21 @@ Status per 30.04.2022:
 - Bei der ursprüngliche Planung war der Start mitte März geplant. Die [Grobplanung](planning.md) wurde daher angepasst mit dem Ziel, den Verzug bis Ende Mai aufzuholen.
 - Die ersten [Arbeitspackete](workpackages.md) wurden definiert und sind in Arbeit.
 
-Erstellte Artefakte:
-- [Arbeitspackete 1-4](workpackages.md)
-- [Grobplanung](planning.md)
-- [Installationsanweisung](installation.md)
-- [Beschreibung Projektstruktur](structure.md)
-- [Basis Klassen für Notebooks]
-- [Notebooks 1-4 mit Grundlagen Graphen]
+Erledigte Arbeiten:
+- Definition [Arbeitspackete 1-4](workpackages.md)
+- Erstellung und Anpassung [Grobplanung](planning.md)
+- Erstellung [Installationsanweisung](installation.md) und Definition [Projektstruktur](structure.md)
+- Implementation [Basis Klassen](graph/) graph, graph_viz, graph_builder, graph_utils
+- Implementation [Notebook 01 Graph Intro](notebooks/nb01-graph-intro.ipynb)
+- Implementation [Notebook 02 Graph Matrix](notebooks/nb02-graph-matrix.ipynb)
+- Implementation [Notebook 03 Graph Edge List](notebooks/nb03-graph-edge-list.ipynb)
+- Implementation [Notebook 04 Graph Metrics](notebooks/nb04-graph-metrics.ipynb.ipynb)
 
 Nächste Schritte:
 - Grundlagen Grahp Machine Learning 
 - Grundlagen Link Prediction
-- Bereitstellung Testdaten und Test Umgebung (inkl. Auswahl Python Libraries für Experimente)
+- Bereitstellung Testdaten und Test Umgebung 
+- Auswahl Python Libraries für Experimente
 
 
 ---
