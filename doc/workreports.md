@@ -7,7 +7,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 Zeitraum   | Aufwand Soll |  Total Soll | Aufwand Ist |   Total Ist
 ---------- | -----------: | ----------: | ----------: | ----------:
 Q4/21-Q1/22|       40.00h |      40.00h |      40.50h |      40.50h
-März/April |       40.00h |      80.00h |      34.00h |      74.50h
+März/April |       40.00h |      80.00h |      39.00h |      79.50h
 Mai        |       96.00h |     176.00h |     |
 Juni       |       64.00h |     240.00h |     |
 Juli       |       64.00h |     304.00h |     |
@@ -42,18 +42,20 @@ Total    |   40.50h | Aufwand
 16.04.22 |    3.00h | Einlesen in Grundlagen Graphen
 18.04.22 |    6.00h | Programmierung Basisklassen, Graph, GraphBuilder und GraphViz
 19.04.22 |    7.00h | Programmierung Notebook01-Graph-Intro
-22.04.22 |    3.00h | Projektplanung, Meilensteine, Setup Git Projekt
+22.04.22 |    4.00h | Projektplanung, Meilensteine, Setup Git Projekt
 23.04.22 |    2.00h | Programmierung Notebook02-Graph-Matrix
 24.04.22 |    2.00h | Programmierung Notebook03-Graph-Edge List
 26.04.22 |    4.50h | Installation GraphDB, Einführungstutorial SPARQL
+28.04.22 |    4.00h | Installationsanleitung und Projektstruktur
 30.04.22 |    6.50h | Programmierung Notebook04-Graph-Metrics 
-Total    |   34.00h | Aufwand
+Total    |   39.00h | Aufwand
 
 ### Mai
 
  Datum   | Aufwand  | Arbeit
 -------- | -------- | ---------------------------------------------------------------
 01.05.22 |    3.00h | Recherche, Installationsprobleme C++ Compiler auf Windows
+02.05.22 |    1.00h | Statusbericht April
 
 ---
 [Zum Hauptmenu](../README.md)
