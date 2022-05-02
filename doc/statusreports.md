@@ -8,7 +8,7 @@ Status per 30.04.2022:
 
 - Die Arbeiten an der Master Thesis wurden mitte April gestartet. Details siehe [Arbeitsrapporte](workreports.md).
 - Bei der ursprüngliche Planung war der Start mitte März geplant. Die [Grobplanung](planning.md) wurde daher angepasst mit dem Ziel, den Verzug bis Ende Mai aufzuholen.
-- Die ersten [Arbeitspackete](workpackages.md) wurden definiert und sind in Arbeit.
+- Die ersten [Arbeitspakete](workpackages.md) wurden definiert und sind in Arbeit.
 
 Erledigte Arbeiten:
 - Definition [Arbeitspackete 1-4](workpackages.md)
