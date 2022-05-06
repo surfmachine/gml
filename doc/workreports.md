@@ -44,7 +44,7 @@ Total    |   40.50h | Aufwand
 19.04.22 |    7.00h | Programmierung Notebook01-Graph-Intro
 22.04.22 |    4.00h | Projektplanung, Meilensteine, Setup Git Projekt
 23.04.22 |    2.00h | Programmierung Notebook02-Graph-Matrix
-24.04.22 |    2.00h | Programmierung Notebook03-Graph-Edge List
+24.04.22 |    2.00h | Programmierung Notebook03-Graph-Edge-List
 26.04.22 |    4.50h | Installation GraphDB, Einführungstutorial SPARQL
 28.04.22 |    4.00h | Installationsanleitung und Projektstruktur
 30.04.22 |    6.50h | Programmierung Notebook04-Graph-Metrics 
@@ -56,6 +56,9 @@ Total    |   39.00h | Aufwand
 -------- | -------- | ---------------------------------------------------------------
 01.05.22 |    3.00h | Recherche, Installationsprobleme C++ Compiler auf Windows
 02.05.22 |    1.00h | Statusbericht April
+03.05.22 |    7.50h | Programmierung Basisklassen NodeEmbedding, EdgeEmbedding, GraphEmbedding und Erstellung Notebook05-Graph-Embedding
+04.05.22 |    2.00h | Mobiliar EDC Einführung mit GraphDB  
+
 
 ---
 [Zum Hauptmenu](../README.md)
