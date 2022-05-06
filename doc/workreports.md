@@ -58,6 +58,7 @@ Total    |   39.00h | Aufwand
 02.05.22 |    1.00h | Statusbericht April
 03.05.22 |    7.50h | Programmierung Basisklassen NodeEmbedding, EdgeEmbedding, GraphEmbedding und Erstellung Notebook05-Graph-Embedding
 04.05.22 |    2.00h | Mobiliar EDC Einführung mit GraphDB  
+06.05.22 |    5.50h | Mobiliar EDC Exploration Daten für Experimente
 
 
 ---
