@@ -59,6 +59,10 @@ Total    |   39.00h | Aufwand
 03.05.22 |    7.50h | Programmierung Basisklassen NodeEmbedding, EdgeEmbedding, GraphEmbedding und Erstellung Notebook05-Graph-Embedding
 04.05.22 |    2.00h | Mobiliar EDC Einführung mit GraphDB  
 06.05.22 |    5.50h | Mobiliar EDC Exploration Daten für Experimente
+07.05.22 |    5.00h | Studium Graph ML Unsupervised/Supervised Learning
+08.05.22 |    2.50h | Programmierung Notebook06-Graph-GCN
+
+26.50
 
 
 ---
