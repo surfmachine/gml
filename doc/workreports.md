@@ -61,6 +61,7 @@ Total    |   39.00h | Aufwand
 06.05.22 |    5.50h | Mobiliar EDC Exploration Daten für Experimente
 07.05.22 |    5.00h | Studium Graph ML Unsupervised/Supervised Learning
 08.05.22 |    2.50h | Programmierung Notebook06-Graph-GCN
+09.05.22 |    7.00h | Mobiliar EDC Exploration und Dokumentation Daten Aufbau und Verlinkung 
 
 26.50
 
