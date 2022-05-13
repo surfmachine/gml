@@ -64,10 +64,11 @@ Total    |   39.00h | Aufwand
 09.05.22 |    8.00h | Mobiliar EDC Exploration und Dokumentation Daten Aufbau und Verlinkung 
 10.05.22 |    8.50h | Mobiliar EDC Detailabklärungen, Bericht Vorlage und erste Strukturierung erstellt
 12.05.22 |    6.00h | Programmierung DataFactory für syntetische Testdaten
+13.05.22 |    3.00h | Evalutation und Transfer Notebook07-CNN und Notebook08-GCN
+13.05.22 |    2.00h | Bericht Kapitel Einführung erstellt
 
 
 Planung:
-13.05.22 |    5.00  
 14.05.22 |    5.00  
 16.05.22 |    8.00  
 20.05.22 |    1.00  
