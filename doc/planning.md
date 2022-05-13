@@ -7,7 +7,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 | Nr. | Meilenstein                                        | Datum    | Status 
 | --: | -------------------------------------------------- | -------- | :--------:
 |  1  | Projektantrag genehmigt                            | 10.02.22 | :white_check_mark: 
-|  2  | Review I / Kick Off mit Experten                   | 20.05.22 | :black_square_button: 
+|  2  | Review I / Kick Off mit Experten                   | 20.05.22 | :arrows_clockwise: 
 |  3  | Grundlagen und Vorbereitung Experimente erstellt   | 31.05.22 | :arrows_clockwise: 
 |  4  | Experimente sind durchgeführt                      | 31.07.22 | :black_square_button:
 |  5  | Review II mit Experten                             | 19.08.22 | :black_square_button:
@@ -24,8 +24,8 @@ Februar   | Folienpräsentation Antrag und Präsentation         |  1 Tag
 April     | Systematische Recherche, Literaturauswahl, Grundlagen Graphen | 5 Tage  
 Mai       | Grundlagen Link Prediction, Extraktion und Anonimisierung Testdaten EDC,Bereitstellung Umgebung, Auswahl Python Libraries | 12 Tage
 Juni      | Taxonomie und erste Experimente Link Prediction    |  8 Tage  
-Juli      | Bewertung und Vergleich Experimente                |  8 Tage  
-August    | Bericht                                            |  6 Tage  
+Juli      | Experimente, Bewertung und Vergleich               |  8 Tage  
+August    | Bericht erstellen                                  |  6 Tage  
 September | Bericht, Bookeintrag und Präsentation erstellen    |  6 Tage  
 
 **Total Aufwand geplant: 50 Tage / 400 Stunden**
