@@ -17,7 +17,8 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 - Projektaufbau
   - [Installationsanleitung](doc/installation.md)
   - [Projektstrukur](doc/structure.md)
-  - [Basis Klassen](graph/)
+  - [Implementation Graph Klassen](graph/)
+  - [Unit Tests Graph Klassen](tests/)
 
 - Graphen
   - [Notebook 01 Graph Intro](notebooks/nb01-graph-intro.ipynb)
@@ -33,8 +34,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   
 - [Graph Link Prediction]
 - [Daten]
-- [Experimente]
-- [Ergebnisse]
+- [Experimente und Auswertungen]
 
 - [Referenzen](doc/references.md)
 
