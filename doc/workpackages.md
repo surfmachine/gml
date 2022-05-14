@@ -9,7 +9,7 @@ Nr | Storie                                         | Status
  1 | Themenantrag                                   | :white_check_mark: Erledigt
  2 | Systematische Recherche und Literaturauswahl   | :arrows_clockwise: in Arbeit
  3 | Grundlagen erarbeiten                          | :arrows_clockwise: in Arbeit
- 4 | Testdaten erstellen                            | :black_square_button: Bereit
+ 4 | Testdaten erstellen                            | :white_check_mark: Erledigt
  5 | Testumgebung bereitstellen                     | :black_square_button: Bereit
  6 | Taxonomie Link Prediction                      | :black_square_button: Bereit
  7 | Experimente durchführen                        | :black_square_button: Bereit
