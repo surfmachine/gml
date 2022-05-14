@@ -27,9 +27,9 @@ Themenselektion, Betreuer Firma suchen, Themenselektion, Recherche zu Themen,
 Auswahl Thema und Erstellung Themenantrag. Besuch der WAW Pflichtmodule.
 
 **Ergebnisse:**
-- :white_check_mark: Projektantrag
-- :white_check_mark: Präsentation Projektantrag
-- :white_check_mark: WAW Pflichtmodule besucht
+- Projektantrag                             :white_check_mark: 
+- Präsentation Projektantrag                :white_check_mark: 
+- WAW Pflichtmodule besucht                 :white_check_mark: 
 
 ## 2. Systematische Recherche und Literaturauswahl
 
@@ -37,7 +37,7 @@ Auswahl Thema und Erstellung Themenantrag. Besuch der WAW Pflichtmodule.
 Die systematische Recherche welche im Rahmen von Projektantrag ausgeführt wurde, wird nochmals ausgeführt und spezifisch auf den Projektscope ausgerichtet.
 
 **Ergebnisse:**
-- Literaturauswahl Grundlagen :white_check_mark: 
+- Literaturauswahl Grundlagen               :white_check_mark: 
 - Auswahl Internet Referenze GNN
 
 ## 3. Grundlagen erarbeiten
@@ -46,8 +46,8 @@ Die systematische Recherche welche im Rahmen von Projektantrag ausgeführt wurde
 Erstellung Beispiel mit den Graph Grundlagen, ML Graph Grundlagen und Grundlagen zur Link Prediction anhand der ausgewählten Literatur und Referenzen im Internet.
 
 **Ergebnisse:**
-- Notebook mit Grundlagen Graphen             :white_check_mark: 
-- Notebook mit Grundlagen Graphen ML          :white_check_mark: 
+- Notebook mit Grundlagen Graphen           :white_check_mark: 
+- Notebook mit Grundlagen Graphen ML        :white_check_mark: 
 - Notebook mit Grundlagen Link Prediction
 
 
