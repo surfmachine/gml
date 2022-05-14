@@ -27,9 +27,9 @@ Themenselektion, Betreuer Firma suchen, Themenselektion, Recherche zu Themen,
 Auswahl Thema und Erstellung Themenantrag. Besuch der WAW Pflichtmodule.
 
 **Ergebnisse:**
-- Projektantrag
-- Präsentation Projektantrag
-- WAW Pflichtmodule besucht
+- :white_check_mark: Projektantrag
+- :white_check_mark: Präsentation Projektantrag
+- :white_check_mark: WAW Pflichtmodule besucht
 
 ## 2. Systematische Recherche und Literaturauswahl
 
