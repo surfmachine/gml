@@ -10,12 +10,12 @@ Nr | Storie                                         | Status
  2 | Systematische Recherche und Literaturauswahl   | :arrows_clockwise: in Arbeit
  3 | Grundlagen erarbeiten                          | :arrows_clockwise: in Arbeit
  4 | Testdaten erstellen                            | :black_square_button: Bereit
- 5 | Testumgebung bereitstellen                     | :heavy_exclamation_mark: Offen
- 6 | Taxonomie Link Prediction                      | :heavy_exclamation_mark: Offen
- 7 | Experimente durchführen                        | :heavy_exclamation_mark: Offen
- 8 | Auswertungen erstellen                         | :heavy_exclamation_mark: Offen
- 9 | Bericht und Bookeintrag verfassen              | :heavy_exclamation_mark: Offen
-10 | Präsentation erstellen                         | :heavy_exclamation_mark: Offen
+ 5 | Testumgebung bereitstellen                     | :black_square_button: Bereit
+ 6 | Taxonomie Link Prediction                      | :black_square_button: Bereit
+ 7 | Experimente durchführen                        | :black_square_button: Bereit
+ 8 | Auswertungen erstellen                         | :black_square_button: Bereit
+ 9 | Bericht und Bookeintrag verfassen              | :arrows_clockwise: in Arbeit
+10 | Präsentation erstellen                         | :black_square_button: Bereit
 
 
 ## Details
