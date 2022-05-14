@@ -9,7 +9,7 @@ Nr | Storie                                         | Status
  1 | Themenantrag                                   | :white_check_mark: Erledigt
  2 | Systematische Recherche und Literaturauswahl   | :arrows_clockwise: in Arbeit
  3 | Grundlagen erarbeiten                          | :arrows_clockwise: in Arbeit
- 4 | Testdaten erstellen                            | :white_check_mark: Erledigt
+ 4 | Daten analysieren und Testdaten bereitstellen  | :white_check_mark: Erledigt
  5 | Testumgebung bereitstellen                     | :black_square_button: Bereit
  6 | Taxonomie Link Prediction                      | :black_square_button: Bereit
  7 | Experimente durchführen                        | :black_square_button: Bereit
@@ -51,15 +51,15 @@ Erstellung Beispiel mit den Graph Grundlagen, ML Graph Grundlagen und Grundlagen
 - Notebook mit Grundlagen Link Prediction
 
 
-## 4. Testdaten erstellen
+## 4. Daten analysieren und Testdaten bereitstellen
 
 **Aufgaben:**<br />
 Die Testdaten sollen aus der Mobiliar MDC Anwendung extrahiert werden. Dazu ist das Graph DB Programm zu installieren mittels Queries sind die Daten zu extrahieren. Anschliessend sind die Daten so auszubereiten, dass sie für die 
 Experimente als Graphen geladen werden können.
 
 **Ergebnisse:**
-- Bereinigte und Formatierte Daten für die Experimente
-- Anonymisierung der Daten, damit die Experimente im Internet zugänglich gemacht werden können (optional)
+- Bereinigte und Formatierte Daten für die Experimente :white_check_mark: 
+- Anonymisierung der Daten, damit die Experimente im Internet zugänglich gemacht werden können (optional) :white_check_mark: 
 
 
 ## 5. Testumgebung bereitstellen
