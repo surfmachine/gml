@@ -101,19 +101,28 @@ TODO
 ## 9. Bericht und Bookeintrag verfassen
 
 **Aufgaben:**<br />
-TODO
+Strukturierung und Erstellung Bericht gemäss den  Vorgaben der BFH. Durchführung Plagiatsprüfung. Erstellung Bookeintrag.
 
 **Ergebnisse:**
-- TODO
-
+- Bericht Strukturierung und Einleitung     :white_check_mark: 
+- Bericht Grundlagen Graphen und Graph ML   :arrows_clockwise:
+- Bericht Daten Analyse und Bereitstellung
+- Bericht Experimente und Auswertungen
+- Bericht Fazit und Ausblick
+- Bericht Management Summary
+- Bericht Plagatisprüfung durchgeführt
+- Bookeintrag
 
 ## 10. Präsentation erstellen
 
 **Aufgaben:**<br />
-TODO
+Erstellung Präsentation mit Folien und Live Session / Demo. Vorbereitung Fragen und Antworten für Verteidigung der Arbeit.
 
 **Ergebnisse:**
-- TODO
+- Folienpräsentation erstellt
+- Live Session Ablauf definiert und vorbereitet
+- Script mit Stichworten für Präsentation erstellt und eingeübt
+- Backup Folien für Verteidigung Arbeit bereit
 
 ---
 [Zum Hauptmenu](../README.md)
