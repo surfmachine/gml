@@ -28,8 +28,8 @@ class GraphViz:
         return GraphViz.STYLES.copy()
 
     @staticmethod
-    def draw(graph, layout_func=nx.shell_layout, with_labels=True, multi=False, weighted=False, path=[],
-             figsize=(6, 6), styles=STYLES):
+    def draw(graph, layout_func=nx.shell_layout, title=None, with_labels=True, multi=False, weighted=False, path=[],
+             figsize=(6, 6), styles=STYLES, filename=None):
         """Draw a networkx graph with the given settings."""
         #
         # init plot
@@ -78,6 +78,16 @@ class GraphViz:
             edge_labels=dict([((a,b,),d["weight"]) for a,b,d in graph.edges(data=True)])
             nx.draw_networkx_edge_labels(graph, node_pos, edge_labels=edge_labels)
         #
-        # show plot
+        # draw and show plot
         #
+        if title is not None:
+            plt.title(title)
+        if filename is not None:
+            GraphViz.save(filename)
         plt.show()
+
+    @staticmethod
+    def save(filename, path="figures", format="png"):
+        """Save the current plot to the given filename."""
+        fname = f"{path}/{filename}.{format}"
+        plt.savefig(fname, format=format)

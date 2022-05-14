@@ -1,5 +1,7 @@
 """Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master Thesis FS/2022 Thomas Iten"""
 
+import pandas as pd
+
 class GraphUtils:
     """Utility class with some helper methods used within the graph modules."""
 
@@ -31,4 +33,30 @@ class GraphUtils:
             result.append(entries)
         return result
 
+    @staticmethod
+    def assemble_link_predictions(labels, perdictions, edge_label="Edge"):
+        """
+        Merge and convert list of link perdictions into a pandas data frame with the given labels.
+        Sample:
+            labels = ["Resource Allocation", "Jaccard Coefficient"]
+            ra = [('PL', 'D1', 1.5), ('PL', 'D2', 0), ...]
+            jc = [('PL', 'D1', 1.0), ('PL', 'D2', 0.0), ...]
+            df = assemble_link_predictions(labels, [ra, jc])
+        """
+        # init result structure
+        result = {edge_label: []}
+        for label in labels:
+            result[label] = []
+        # assemble predictions
+        first = perdictions[0]
+        for i in range(len(first)):
+            append_edge = True
+            for j in range(len(labels)):
+                if append_edge:
+                    result[edge_label].append((first[i][0], first[i][1]))
+                    append_edge = False
+                label = labels[j]
+                result[label].append(perdictions[j][i][2])
+        # return result as pandas df
+        return pd.DataFrame(result)
 

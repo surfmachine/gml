@@ -53,6 +53,10 @@ class Graph:
                 return True
         return False
 
+    def number_of_nodes(self):
+        """Return the number of nodes."""
+        return len(self.nodes)
+
     def properties(self):
         """Assemble the basic graph properties."""
         # assemble common properties
@@ -92,13 +96,14 @@ class Graph:
         for k in props:
             print(space, k.ljust(11), ":", props[k] )
 
-    def draw(self, path=[]):
+    def draw(self, title=None, path=[], filename=None):
         """Draw the graph with the default settings. If an additional path is defined, the edges of the listed path
         entries will be colored.
 
         Note: If you wish to override some or all of the default settings, please use the GraphViz.draw()
         methode directly."""
-        GraphViz.draw(self.graph, multi=self.multi, weighted=self.weighted, path=path)
+        GraphViz.draw(self.graph, title=title, multi=self.multi, weighted=self.weighted, path=path, filename=filename)
+
 
     # -----------------------------------------------------------------------------------------------------------------
     # matrix and edge list functions
@@ -228,3 +233,20 @@ class Graph:
 
     def create_edge_embedding(self):
         return EdgeEmbedding(self.graph)
+
+    # -----------------------------------------------------------------------------------------------------------------
+    # link predictions
+    # -----------------------------------------------------------------------------------------------------------------
+
+    def missing_edges(self):
+        """Return a list of all missing edges in the graph."""
+        result = []
+        for edge in GraphUtils.combinations(self.nodes):
+            inverse_edge = (edge[1], edge[0])
+            if not edge in self.edges and not inverse_edge in self.edges:
+                result.append(edge)
+        return result
+
+
+
+
