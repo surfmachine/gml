@@ -22,10 +22,8 @@ Erledigte Arbeiten:
 
 Nächste Schritte:
 - Grundlagen Grahp Machine Learning 
-- Grundlagen Link Prediction
-- Bereitstellung Testdaten und Test Umgebung 
+- Bereitstellung Testdaten
 - Auswahl Python Libraries für Experimente
-
 
 ---
 [Zum Hauptmenu](../README.md)

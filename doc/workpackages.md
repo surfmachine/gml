@@ -54,48 +54,55 @@ Erstellung Beispiel mit den Graph Grundlagen, ML Graph Grundlagen und Grundlagen
 ## 4. Daten analysieren und Testdaten bereitstellen
 
 **Aufgaben:**<br />
-Die Testdaten sollen aus der Mobiliar MDC Anwendung extrahiert werden. Dazu ist das Graph DB Programm zu installieren mittels Queries sind die Daten zu extrahieren. Anschliessend sind die Daten so auszubereiten, dass sie für die 
-Experimente als Graphen geladen werden können.
+Die Testdaten sollen aus der Mobiliar MDC Anwendung extrahiert werden. Dazu ist das Graph DB Programm zu installieren mittels Queries sind die Daten zu extrahieren. Anschliessend sind die Daten so aufzubereiten, dass sie für die Experimente als Graphen geladen werden können. 
+
+Alternativ zu den effektiven Daten können auch syntetische Daten bereitgestellt werden. In diesem Fall ist eine entsprechenden Daten Factory zu programmieren, mit der die gewünschten Datensätze generiert werden können.
 
 **Ergebnisse:**
 - Bereinigte und Formatierte Daten für die Experimente :white_check_mark: 
-- Anonymisierung der Daten, damit die Experimente im Internet zugänglich gemacht werden können (optional) :white_check_mark: 
+- Anonymisierung der Daten, damit die Experimente im Internet zugänglich gemacht werden können oder syntetische Daten generiert via Factory. :white_check_mark: 
 
 
 ## 5. Testumgebung bereitstellen
 
 **Aufgaben:**<br />
-TODO
+Vorbereitung Testumgebung für die Experimente. Im Idealfall können diese lokal auf einem PC durchgeführt werden oder mit Google Colab. Zu diesem Zweck sind grössere Testläufe mit Grapen von einigen 100 bis 1000 Knoten und Verbindungen durchzuführen. 
+
+Falls es sich herausstellt, dass die Leistung des Laptop/Collab oder der eingesetzten Graphen Bibilotheken nicht ausreicht ist eine alternative Lösung zu suchen. Entweder sind effizientere Graph Bibliotheken zu evaluieren oder es soll eine Leistungsfähigere Laufzeitumgebung in der Cloud aufgesetzt werden.
 
 **Ergebnisse:**
-- TODO
+- Leistungstests sind durchgeführt und nachvollziehbar dokumentiert
+- Testumgebung ist definiert 
+- Die zu verwendenden Graphen Bibliotheken sind ausgewählt
 
 
 ## 6. Taxonomie Link Prediction 
 
 **Aufgaben:**<br />
-TODO
+Zusammentragen und Auswahl der geeigneten Link Prediction Taxonomie für die Experimente und den Bericht.
 
 **Ergebnisse:**
-- TODO
+- Link Prediction Taxonomie für die Experimente ist defniert.
+- Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert.
 
 
 ## 7. Experimente durchführen
 
 **Aufgaben:**<br />
-TODO
+Sammeln von Fragestellungen und Vermutungen. Planung und Durchführung der Experimente. Auswertung der Resultate und Ableiten von Fragen und Vermutungen für die nächsten Experimente.
 
 **Ergebnisse:**
-- TODO
+- Experimente sind durchgeführt und gemäss Experimentierzyklus dokumentiert.
+- Resultate sind für die weiteren Auswertungen elektronisch festgehalten.
 
 
 ## 8. Auswertungen erstellen
 
 **Aufgaben:**<br />
-TODO
+Die Ergebnisse werden aufbereittet und die Resultate werden interpretiert. Die verwendeten Link Prediction Ansätze werden untereinander verglichen und dem regelbasierten Ansatz der EDC Anwendung gegenübergestellt.
 
 **Ergebnisse:**
-- TODO
+- Die Ergebnisse sind aufbereitet, ausgewertet und dokumentiert.
 
 
 ## 9. Bericht und Bookeintrag verfassen
@@ -103,7 +110,6 @@ TODO
 **Aufgaben:**<br />
 Strukturierung und Erstellung Bericht gemäss den  Vorgaben der BFH. Durchführung Plagiatsprüfung. Erstellung Bookeintrag.
 
-**Ergebnisse:**
 - Bericht Strukturierung und Einleitung     :white_check_mark: 
 - Bericht Grundlagen Graphen und Graph ML   :arrows_clockwise:
 - Bericht Daten Analyse und Bereitstellung
@@ -112,6 +118,11 @@ Strukturierung und Erstellung Bericht gemäss den  Vorgaben der BFH. Durchführu
 - Bericht Management Summary
 - Bericht Plagatisprüfung durchgeführt
 - Bookeintrag
+
+
+**Ergebnisse:**
+- Bericht erstellt und Plagatisprüfung durchgeführt
+- Bookeintrag erstellt
 
 ## 10. Präsentation erstellen
 

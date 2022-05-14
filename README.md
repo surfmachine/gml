@@ -9,8 +9,8 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   - [Präsentation Themenantrag](doc/Themenantrag-Pr%C3%A4sentation-V10.pdf)
 
 - Organisation
-  - [Arbeitspakete](doc/workpackages.md)
   - [Planung & Meilensteine](doc/planning.md)
+  - [Arbeitspakete](doc/workpackages.md)
   - [Arbeitsrapporte](doc/workreports.md)
   - [Statusberichte](doc/statusreports.md)
 
