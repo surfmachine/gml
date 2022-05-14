@@ -37,8 +37,8 @@ Auswahl Thema und Erstellung Themenantrag. Besuch der WAW Pflichtmodule.
 Die systematische Recherche welche im Rahmen von Projektantrag ausgeführt wurde, wird nochmals ausgeführt und spezifisch auf den Projektscope ausgerichtet.
 
 **Ergebnisse:**
-- Literaturauswahl Grundlagen
-- Auswahl Internet Referenzen
+- Literaturauswahl Grundlagen :white_check_mark: 
+- Auswahl Internet Referenze GNN
 
 ## 3. Grundlagen erarbeiten
 
@@ -46,8 +46,8 @@ Die systematische Recherche welche im Rahmen von Projektantrag ausgeführt wurde
 Erstellung Beispiel mit den Graph Grundlagen, ML Graph Grundlagen und Grundlagen zur Link Prediction anhand der ausgewählten Literatur und Referenzen im Internet.
 
 **Ergebnisse:**
-- Notebook mit Grundlagen Graphen
-- Notebook mit Grundlagen Graphen ML
+- Notebook mit Grundlagen Graphen             :white_check_mark: 
+- Notebook mit Grundlagen Graphen ML          :white_check_mark: 
 - Notebook mit Grundlagen Link Prediction
 
 
