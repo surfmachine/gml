@@ -66,9 +66,10 @@ Total    |   39.00h | Aufwand
 12.05.22 |    6.00h | Programmierung DataFactory für syntetische Testdaten
 13.05.22 |    3.00h | Evalutation und Transfer Notebook07-CNN und Notebook08-GCN
 13.05.22 |    2.00h | Bericht Kapitel 1 Einführung erstellt
-14.05.22 |    6.50h | Bericht Kapitel 2 Graphen, Arbeitspakete 5-10 ausformuliert
+14.05.22 |    6.50h | Bericht Kapitel 2.1/2.2 Graphen, Arbeitspakete 5-10 ausformuliert
+15.05.22 |    2.00h | Bericht Kapitel 2.3 Graphen
 
-Stand: 60 / 96
+Stand: 62 / 96
 
 Planung:
 16.05.22 |    8.00  
