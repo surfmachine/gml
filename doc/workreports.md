@@ -68,12 +68,12 @@ Total    |   39.00h | Aufwand
 13.05.22 |    2.00h | Bericht Kapitel 1 Einführung erstellt
 14.05.22 |    6.50h | Bericht Kapitel 2.1/2.2 Graphen, Arbeitspakete 5-10 ausformuliert
 15.05.22 |    2.00h | Bericht Kapitel 2.3 Graph Repräsentation
-16.05.22 |    4.00h | Bericht Kapitel 2.4 Graph Metriken
+16.05.22 |    5.00h | Bericht Kapitel 2.4 Graph Metriken, Kapitel 3 Struktur erstellt
 
-Stand: 66 / 96
+Stand: 67 / 96
 
 Planung:
-16.05.22 |    2.00  
+16.05.22 |    1.00  
 20.05.22 |    1.00  
 21.05.22 |    5.00  
 24.05.22 |    4.00  
