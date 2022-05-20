@@ -69,6 +69,7 @@ Total    |   39.00h | Aufwand
 14.05.22 |    6.50h | Bericht Kapitel 2.1/2.2 Graphen, Arbeitspakete 5-10 ausformuliert
 15.05.22 |    2.00h | Bericht Kapitel 2.3 Graph Repräsentation
 16.05.22 |    5.00h | Bericht Kapitel 2.4 Graph Metriken, Kapitel 3 Struktur erstellt
+20.05.22 |    2.00h | Experten Review I, Kapitel 4 Struktur erstellt
 
 ---
 [Zum Hauptmenu](../README.md)
