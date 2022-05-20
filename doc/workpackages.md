@@ -9,7 +9,7 @@ Nr | Storie                                         | Status
  1 | Themenantrag                                   | :white_check_mark: 
  2 | Systematische Recherche und Literaturauswahl   | :arrows_clockwise: 
  3 | Grundlagen erarbeiten                          | :arrows_clockwise: 
- 4 | Daten analysieren und Testdaten bereitstellen  | :white_check_mark: 
+ 4 | Daten analysieren und Testdaten bereitstellen  | :arrows_clockwise:  
  5 | Testumgebung bereitstellen                     | :black_square_button:
  6 | Taxonomie Link Prediction                      | :black_square_button:
  7 | Experimente durchführen                        | :black_square_button:
