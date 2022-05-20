@@ -70,17 +70,5 @@ Total    |   39.00h | Aufwand
 15.05.22 |    2.00h | Bericht Kapitel 2.3 Graph Repräsentation
 16.05.22 |    5.00h | Bericht Kapitel 2.4 Graph Metriken, Kapitel 3 Struktur erstellt
 
-Stand: 67 / 96
-
-Planung:
-16.05.22 |    1.00  
-20.05.22 |    1.00  
-21.05.22 |    5.00  
-24.05.22 |    4.00  
-26.05.22 |    4.00  
-27.05.22 |    4.00  
-28.05.22 |    4.00  
-31.05.22 |    8.00  
-
 ---
 [Zum Hauptmenu](../README.md)
