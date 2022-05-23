@@ -71,6 +71,7 @@ Total    |   39.00h | Aufwand
 16.05.22 |    5.00h | Bericht Kapitel 2.4 Graph Metriken, Kapitel 3 Struktur erstellt
 20.05.22 |    2.00h | Experten Review I, Kapitel 4 Struktur erstellt
 21.05.22 |    6.00h | Bericht Kapitel 4.1/4.2 und Anhang GraphDB HandsOn
+23.05.22 |    6.00h | Bericht Kapitel 4.3 und Anhang EDC Datenanalyse
 
 
 ---
