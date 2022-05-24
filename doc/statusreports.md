@@ -2,6 +2,9 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 # Statusberichte
 
+## Mai 2022
+
+
 Status per 31.05.2022:
 - Der Verzug gegenüber der ersten Planung konnte zu grossen Teilen aufgeholt werden. Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt stimmt mit der [Grobplanung](planning.md) überein.
