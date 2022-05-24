@@ -96,13 +96,14 @@ class Graph:
         for k in props:
             print(space, k.ljust(11), ":", props[k] )
 
-    def draw(self, title=None, path=[], filename=None):
+    def draw(self, title=None, path=[], filename=None, layout=GraphViz.SHELL_LAYOUT):
         """Draw the graph with the default settings. If an additional path is defined, the edges of the listed path
         entries will be colored.
 
         Note: If you wish to override some or all of the default settings, please use the GraphViz.draw()
         methode directly."""
-        GraphViz.draw(self.graph, title=title, multi=self.multi, weighted=self.weighted, path=path, filename=filename)
+        GraphViz.draw(self.graph, title=title, multi=self.multi, weighted=self.weighted, path=path, filename=filename,
+                      layout=layout)
 
 
     # -----------------------------------------------------------------------------------------------------------------

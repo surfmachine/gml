@@ -3,8 +3,22 @@
 from .graph_builder import GraphBuilder
 
 # ---------------------------------------------------------------------------------------------------------------------
-# Test data classes
+# Test data entities
 # ---------------------------------------------------------------------------------------------------------------------
+
+class GraphRoot:
+    """Organisation root test data class."""
+    NAME = "GR"
+    def __init__(self):
+        """Create instance."""
+        self.name = GraphRoot.NAME
+
+class OrgRoot:
+    """Organisation root test data class."""
+    NAME = "OR"
+    def __init__(self):
+        """Create instance."""
+        self.name = OrgRoot.NAME
 
 class Employee:
     """Employee test data class.
@@ -15,7 +29,6 @@ class Employee:
      - edges from the employee to its childes and from the employee to another node
      - edges from the employee to its childes and from the childs to another node and the employee to another node
     """
-
     NAME_PREFIX = "EM"
     ID_PREFIX = "I"
     FIRSTNAME_PREFIX = "F"
@@ -92,49 +105,96 @@ class Employee:
             return (from_node, to_node)
 
 
+class DataRoot:
+    """Data root test data class."""
+    NAME = "DR"
+    def __init__(self):
+        """Create instance."""
+        self.name = DataRoot.NAME
+
 class DataCollection:
     """Data collection test data class."""
-
     NAME_PREFIX = "DC"
-
     def __init__(self, i):
-        """Create test data employee instance."""
+        """Create instance."""
         self.name = DataCollection.NAME_PREFIX + str(i)
 
+class MatchingCluster:
+    """MatchingCluster test data class."""
+    NAME_PREFIX = "MC"
+    def __init__(self, i):
+        """Create instance."""
+        self.name = MatchingCluster.NAME_PREFIX + str(i)
 
 # ---------------------------------------------------------------------------------------------------------------------
-# Data Factory
-# ---------------------------------------------------------------------------------------------------------------------
+# Test data factory
+# ------------------------------------f---------------------------------------------------------------------------------
 
 class DataFactory:
     """Synthetic test data factory.
 
     Abbreviations of the node names:
+    - GR: Graph root (used for connected graphs)
+    - DR: Data root (used for connected graphs)
+    - OR: Organisation root (used for connected graphs)
     - DC: Data Collection (Datensammlung)
     - MC: Matching Cluster
     - EM: Employee (Mitarbeiter)
-    - I:  Identiy of an Employee (U-Nummer)
-    - F:  Firstname of an Employee
-    - L:  Lastname of an Employee
-    - A: Atomic Value (atomarer Einzelwert), currently not used
+    - A:  Atomic Value
+    - I:  Atomic Value for an Identiy of an Employee (U-Nummer)
+    - F:  Atomic Value for a Firstname of an Employee
+    - L:  Atomic Value for a Lastname of an Employee
 
     Abbreviations of the type node names:
     - IType: Identiy Type
     - FType: Firstname Type
     - LType: Lastname Type
-
     """
+
     def __init__(self):
         """Create new data factory builder instance."""
         pass
 
-    def create_graph(self, n=10):
+
+    def create_graph(self, n=1, connected=False, directed=False, add_dc=False,
+                     add_id=True, add_fn=True, add_ln=True, typed=False, weighted=False):
+        """Create n single graphs with MC/DC on one site and EM on the other side.
+
+        If the connected option is enabled, the n single graphs with MC/DC on one site and EM on the other side  will
+        get a root on each side. All MC/DC nodes share a common parent and all EM nodes as well. These two parents
+        will then be connected as well. So all together one single graph will be created!
+        """
+        # init graph builder
         graph_builder = GraphBuilder()
+        # init root elements for connected graph
+        if connected:
+            graph_root = GraphRoot()
+            org_root = OrgRoot()
+            data_root = DataRoot()
+            graph_builder.append_edge((graph_root.name, org_root.name))
+            graph_builder.append_edge((graph_root.name, data_root.name))
+        # create n subgraphs
         for i in range(0, n):
-            em = Employee(i)
-            dc = DataCollection(i)
-            edges = em.edges_connected_to_childs(dc.name)
+            # create em and mc
+            em = Employee(i, add_id=add_id, add_fn=add_fn, add_ln=add_ln, add_type_nodes=typed, weighted=weighted)
+            mc = MatchingCluster(i)
+            edges = em.edges_connected_to_childs(mc.name)
+            # add data cluster (if enabled)
+            if add_dc:
+                dc = DataCollection(i)
+                edges.append((dc.name, mc.name))
+            # add root nodes (if enabled)
+            if connected:
+                edges.append((org_root.name, em.name))
+                if add_dc:
+                    edges.append((data_root.name, dc.name))
+                else:
+                    edges.append((data_root.name, mc.name))
+            # add edges
             graph_builder.append_edges(edges)
+        # create graph and return result
+        if directed:
+            return graph_builder.create_directed()
         return graph_builder.create()
 
     def create_names(self, name, n=10):

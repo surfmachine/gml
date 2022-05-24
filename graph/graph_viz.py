@@ -9,6 +9,9 @@ class GraphViz:
     References:
     - https://networkx.org
     """
+    SHELL_LAYOUT = nx.shell_layout
+    SPIRAL_LAYOUT = nx.spiral_layout
+    SPECTRAL_LAYOUT = nx.spectral_layout
 
     STYLES = {
         'node_size': 60,
@@ -19,16 +22,13 @@ class GraphViz:
         'ax': None
     }
 
-    SCATTER_STYLES = {
-    }
-
     @staticmethod
     def get_styles():
         """Get a copy of the default styles. Used to override some given defaults."""
         return GraphViz.STYLES.copy()
 
     @staticmethod
-    def draw(graph, layout_func=nx.shell_layout, title=None, with_labels=True, multi=False, weighted=False, path=[],
+    def draw(graph, layout=SHELL_LAYOUT, title=None, with_labels=True, multi=False, weighted=False, path=[],
              figsize=(6, 6), styles=STYLES, filename=None):
         """Draw a networkx graph with the given settings."""
         #
@@ -39,7 +39,7 @@ class GraphViz:
         #
         # draw network
         #
-        node_pos = layout_func(graph)
+        node_pos = layout(graph)
         edgelist = [] if multi else graph.edges # skip edges for multi mode and draw them with rad
         nx.draw_networkx(graph, pos=node_pos, edgelist=edgelist, **styles)
         #
