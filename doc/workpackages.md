@@ -111,8 +111,9 @@ Die Ergebnisse werden aufbereittet und die Resultate werden interpretiert. Die v
 Strukturierung und Erstellung Bericht gemäss den  Vorgaben der BFH. Durchführung Plagiatsprüfung. Erstellung Bookeintrag.
 
 - Bericht Strukturierung und Einleitung     :white_check_mark: 
-- Bericht Grundlagen Graphen und Graph ML   :arrows_clockwise:
-- Bericht Daten Analyse und Bereitstellung
+- Bericht Grundlagen Graphen und Graph ML   :white_check_mark:
+- Bericht Daten Analyse und Bereitstellung  :white_check_mark:
+- Bericht Link Prediction und Taxonomie     :arrows_clockwise:
 - Bericht Experimente und Auswertungen
 - Bericht Fazit und Ausblick
 - Bericht Management Summary
