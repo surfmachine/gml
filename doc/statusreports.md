@@ -23,9 +23,10 @@ Erledigte Arbeiten:
 - Bericht Kapitel 1. Einleitung, 2. Graphen, 3. Graph Machine Learning, 4. Daten erstellt
 
 Nächste Schritte:
-- Grundlagen Link Prediction
+- Grundlagen Link Prediction 
 - Bereitstellung Test Umgebung mit Performance Tests 
 - Recherche abschliessen
+- Start erste Experimente
 
 
 ## April 2022
