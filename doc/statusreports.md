@@ -4,7 +4,6 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 ## Mai 2022
 
-
 Status per 31.05.2022:
 - Der Verzug gegenüber der ersten Planung konnte zu grossen Teilen aufgeholt werden. Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt stimmt mit der [Grobplanung](planning.md) überein.
@@ -21,10 +20,7 @@ Erledigte Arbeiten:
 - [Notebook 07 Graph ML Classification with CNN](../notebooks/nb07-gml-cnn-supervised-graph-classification.ipynb)
 - [Notebook 08 Graph ML Classification with GCN](../notebooks/nb08-gml-gcn-supervised-graph-classification.ipynb)
 - [Notebook 09 Data Factory](../notebooks/nb09-data-factory.ipynb)
-- Bericht Kapitel 1 Einleitung erstellt
-- Bericht Kapitel 2 Graphen erstellt
-- Bericht Kapitel 3 Graph Machine Learning erstellt
-- Bericht Kapitel 4 Daten erstellt
+- Bericht Kapitel 1. Einleitung, 2. Graphen, 3. Graph Machine Learning, 4. Daten erstellt
 
 Nächste Schritte:
 - Grundlagen Link Prediction
