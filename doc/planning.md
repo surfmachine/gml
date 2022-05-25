@@ -22,8 +22,8 @@ Dezember  | Themenwahl, erste Recherchen, WAW                  |  2 Tage
 Januar    | Erste Einarbeitung, Antrag erstellen               |  2 Tage  
 Februar   | Folienpräsentation Antrag und Präsentation         |  1 Tag   
 April     | Systematische Recherche, Literaturauswahl, Grundlagen Graphen | 5 Tage  
-Mai       | Grundlagen Graph Machine Learning, Extraktion und Anonimisierung Testdaten EDC, Auswahl Python Libraries | 12 Tage
-Juni      | Grundlagen Link Prediction, Taxonomie Link Prediction für Experimente festlegen, Bereitstellung Testumgebung und Start erste Experimente |  8 Tage  
+Mai       | Grundlagen Graph Machine Learning, Extraktion und Anonimisierung Testdaten EDC | 12 Tage
+Juni      | Grundlagen Link Prediction, Taxonomie Link Prediction für Experimente festlegen, Bereitstellung Testumgebung, Auswahl Python Libraries und Start erste Experimente |  8 Tage  
 Juli      | Durchführung Experimente und festhalten der Ergebnisse |  8 Tage  
 August    | Bewertung und Vergleich Resultate, Arbeiten am Bericht |  6 Tage  
 September | Bericht, Bookeintrag und Präsentation fertigstellen    |  6 Tage  
