@@ -33,7 +33,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   - [Notebook 08 Graph ML Classification with GCN](notebooks/nb08-gml-gcn-supervised-graph-classification.ipynb)
   
 - Daten
-  - [Data Factory](gml/data_factory.py)
+  - [Data Factory](graph/data_factory.py)
   - [Notebook 09 Data Factory](notebooks/nb09-data-factory.ipynb)
 
 - [Graph Link Prediction]
