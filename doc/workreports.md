@@ -73,6 +73,9 @@ Total    |   39.00h | Aufwand
 21.05.22 |    6.00h | Bericht Kapitel 4.1/4.2 und Anhang GraphDB HandsOn
 23.05.22 |    7.50h | Bericht Kapitel 4.3 - 4.5 und Anhang EDC Datenanalyse
 24.05.22 |    3.50h | Programmieurung Data Factory und Notebook09 Data Factory 
+25.05.22 |    6.00h | Bericht Kapitel 3.1 erstellt und 3.2 angefangen
+
+Total    |   92.50h | Aufwand
 
 
 
