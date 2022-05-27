@@ -8,7 +8,7 @@ Zeitraum   | Aufwand Soll |  Total Soll | Aufwand Ist |   Total Ist
 ---------- | -----------: | ----------: | ----------: | ----------:
 Q4/21-Q1/22|       40.00h |      40.00h |      40.50h |      40.50h
 März/April |       40.00h |      80.00h |      39.00h |      79.50h
-Mai        |       96.00h |     176.00h |     |
+Mai        |       96.00h |     176.00h |      98.50h |     178.00h
 Juni       |       64.00h |     240.00h |     |
 Juli       |       64.00h |     304.00h |     |
 August     |       48.00h |     352.00h |     |
@@ -73,9 +73,10 @@ Total    |   39.00h | Aufwand
 21.05.22 |    6.00h | Bericht Kapitel 4.1/4.2 und Anhang GraphDB HandsOn
 23.05.22 |    7.50h | Bericht Kapitel 4.3 - 4.5 und Anhang EDC Datenanalyse
 24.05.22 |    3.50h | Programmieurung Data Factory und Notebook09 Data Factory 
-25.05.22 |    6.00h | Bericht Kapitel 3.1 erstellt und 3.2 angefangen
-
-Total    |   92.50h | Aufwand
+26.05.22 |    6.00h | Bericht Kapitel 3.1 und 3.2 erstellt
+27.05.22 |    3.00h | Bericht Kapitel 3.3 und 3.4 erstellt
+28.05.22 |    3.00h | Bereinigung Bericht, Abbildungen, Notebooks
+Total    |   98.50h | Aufwand
 
 
 

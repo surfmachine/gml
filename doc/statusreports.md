@@ -4,12 +4,13 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 ## Mai 2022
 
-Status per 31.05.2022:
+Status per 28.05.2022:
 - Der Verzug gegenüber der ersten Planung konnte zu grossen Teilen aufgeholt werden. Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt stimmt mit der [Grobplanung](planning.md) überein.
 - Die restlichen [Arbeitspakete](workpackages.md) wurden definiert. Die ersten Arbeitspakete abgeschlossen.
 - Das erste Review mit den Experten und dem Betreuer wurde am 20. Mai durchgeführt.
-- Die Grundlagen sind erarbeitet und dokumentiert.
+- Die Grundlagen sind erarbeitet und dokumentiert. 
+- Die Berichterstellung ist aufwendig und beansprucht mehr Zeit als gedacht.
 
 Erledigte Arbeiten:
 - Definition [Arbeitspackete 5-10](workpackages.md)
@@ -27,7 +28,6 @@ Nächste Schritte:
 - Bereitstellung Test Umgebung mit Performance Tests 
 - Recherche abschliessen
 - Start erste Experimente
-
 
 ## April 2022
 
