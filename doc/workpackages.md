@@ -8,7 +8,7 @@ Nr | Storie                                         | Status
 -- | ---------------------------------------------- | :--------------------: 
  1 | Themenantrag                                   | :white_check_mark: 
  2 | Systematische Recherche und Literaturauswahl   | :arrows_clockwise: 
- 3 | Grundlagen erarbeiten                          | :arrows_clockwise: 
+ 3 | Grundlagen erarbeiten                          | :white_check_mark:  
  4 | Daten analysieren und Testdaten bereitstellen  | :white_check_mark:  
  5 | Testumgebung bereitstellen                     | :arrows_clockwise:
  6 | Taxonomie Link Prediction                      | :arrows_clockwise:
@@ -48,7 +48,7 @@ Erstellung Beispiel mit den Graph Grundlagen, ML Graph Grundlagen und Grundlagen
 **Ergebnisse:**
 - Notebook mit Grundlagen Graphen           :white_check_mark: 
 - Notebook mit Grundlagen Graphen ML        :white_check_mark: 
-- Notebook mit Grundlagen Link Prediction
+- Notebook mit Grundlagen Link Prediction   :white_check_mark: 
 
 
 ## 4. Daten analysieren und Testdaten bereitstellen
