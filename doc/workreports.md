@@ -78,6 +78,12 @@ Total    |   39.00h | Aufwand
 28.05.22 |    3.00h | Bereinigung Bericht, Abbildungen, Notebooks
 Total    |   98.50h | Aufwand
 
+### Juni
+
+ Datum   | Aufwand  | Arbeit
+-------- | -------- | ---------------------------------------------------------------
+01.06.22 |    6.00h | Einlesen Link Prediction, Programmmierung graph_link.py 
+04.06.22 |    4.00h | Programmmierung graph_link.py, Notebook10-GLP-Similarity, Recherche GNN 
 
 
 ---

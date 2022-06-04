@@ -2,6 +2,20 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 # Statusberichte
 
+## Juni 2022 (in Arbeit)
+
+Status per 30.06.2022:
+==TODO==
+
+Erledigte Arbeiten:
+- Abschluss [Arbeitspacket 2 Systematische Recherche](workpackages.md)
+- Implementation weitere [Basis Klassen](../graph/) graph_link
+- [Notebook 10 Similarity based Graph Link Prediction](../notebooks/nb10-glp-similarity.ipynb)
+
+Nächste Schritte:
+==TODO==
+
+
 ## Mai 2022
 
 Status per 28.05.2022:

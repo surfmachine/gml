@@ -7,12 +7,12 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 Nr | Storie                                         | Status
 -- | ---------------------------------------------- | :--------------------: 
  1 | Themenantrag                                   | :white_check_mark: 
- 2 | Systematische Recherche und Literaturauswahl   | :arrows_clockwise: 
+ 2 | Systematische Recherche und Literaturauswahl   | :white_check_mark: 
  3 | Grundlagen erarbeiten                          | :white_check_mark:  
  4 | Daten analysieren und Testdaten bereitstellen  | :white_check_mark:  
- 5 | Testumgebung bereitstellen                     | :arrows_clockwise:
- 6 | Taxonomie Link Prediction                      | :arrows_clockwise:
- 7 | Experimente durchführen                        | :arrows_clockwise:
+ 5 | Taxonomie Link Prediction                      | :arrows_clockwise:
+ 6 | Testumgebung bereitstellen                     | :arrows_clockwise:
+ 7 | Experimente durchführen                        | :black_square_button:
  8 | Auswertungen erstellen                         | :black_square_button:
  9 | Bericht und Bookeintrag verfassen              | :arrows_clockwise:
 10 | Präsentation erstellen                         | :black_square_button:
@@ -38,7 +38,7 @@ Die systematische Recherche welche im Rahmen von Projektantrag ausgeführt wurde
 
 **Ergebnisse:**
 - Literaturauswahl Grundlagen               :white_check_mark: 
-- Auswahl Internet Referenze GNN
+- Auswahl Internet Referenze GNN            :white_check_mark: 
 
 ## 3. Grundlagen erarbeiten
 
@@ -62,8 +62,16 @@ Alternativ zu den effektiven Daten können auch syntetische Daten bereitgestellt
 - Bereinigte und Formatierte Daten für die Experimente :white_check_mark: 
 - Anonymisierung der Daten, damit die Experimente im Internet zugänglich gemacht werden können oder syntetische Daten generiert via Factory. :white_check_mark: 
 
+## 5. Taxonomie Link Prediction 
 
-## 5. Testumgebung bereitstellen
+**Aufgaben:**<br />
+Zusammentragen und Auswahl der geeigneten Link Prediction Taxonomie für die Experimente und den Bericht.
+
+**Ergebnisse:**
+- Link Prediction Taxonomie für die Experimente ist defniert.
+- Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert.
+
+## 6. Testumgebung bereitstellen
 
 **Aufgaben:**<br />
 Vorbereitung Testumgebung für die Experimente. Im Idealfall können diese lokal auf einem PC durchgeführt werden oder mit Google Colab. Zu diesem Zweck sind grössere Testläufe mit Grapen von einigen 100 bis 1000 Knoten und Verbindungen durchzuführen. 
@@ -75,15 +83,6 @@ Falls es sich herausstellt, dass die Leistung des Laptop/Collab oder der eingese
 - Testumgebung ist definiert 
 - Die zu verwendenden Graphen Bibliotheken sind ausgewählt
 
-
-## 6. Taxonomie Link Prediction 
-
-**Aufgaben:**<br />
-Zusammentragen und Auswahl der geeigneten Link Prediction Taxonomie für die Experimente und den Bericht.
-
-**Ergebnisse:**
-- Link Prediction Taxonomie für die Experimente ist defniert.
-- Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert.
 
 
 ## 7. Experimente durchführen
