@@ -68,8 +68,8 @@ Alternativ zu den effektiven Daten können auch syntetische Daten bereitgestellt
 Zusammentragen und Auswahl der geeigneten Link Prediction Taxonomie für die Experimente und den Bericht.
 
 **Ergebnisse:**
-- Link Prediction Taxonomie für die Experimente ist defniert.
-- Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert.
+- Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert. :arrows_clockwise:
+- Link Prediction Taxonomie für die Experimente ist defniert. :arrows_clockwise:
 
 ## 6. Testumgebung bereitstellen
 
@@ -79,9 +79,9 @@ Vorbereitung Testumgebung für die Experimente. Im Idealfall können diese lokal
 Falls es sich herausstellt, dass die Leistung des Laptop/Collab oder der eingesetzten Graphen Bibilotheken nicht ausreicht ist eine alternative Lösung zu suchen. Entweder sind effizientere Graph Bibliotheken zu evaluieren oder es soll eine Leistungsfähigere Laufzeitumgebung in der Cloud aufgesetzt werden.
 
 **Ergebnisse:**
+- Die zu verwendenden Graphen Bibliotheken sind ausgewählt :arrows_clockwise:
 - Leistungstests sind durchgeführt und nachvollziehbar dokumentiert
 - Testumgebung ist definiert 
-- Die zu verwendenden Graphen Bibliotheken sind ausgewählt
 
 
 
