@@ -4,15 +4,18 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 ## Auswertung
 
-Zeitraum   | Aufwand Soll |  Total Soll | Aufwand Ist |   Total Ist
+Zeitraum   | Aufwand Soll | Aufwand Ist |  Total Soll |   Total Ist
 ---------- | -----------: | ----------: | ----------: | ----------:
-Q4/21-Q1/22|       40.00h |      40.00h |      40.50h |      40.50h
-März/April |       40.00h |      80.00h |      39.00h |      79.50h
-Mai        |       96.00h |     176.00h |      98.50h |     178.00h
-Juni       |       64.00h |     240.00h |     |
-Juli       |       64.00h |     304.00h |     |
-August     |       48.00h |     352.00h |     |
-September  |       48.00h |     400.00h |     |
+Q4/21-Q1/22|       40.00h |      40.50h |      40.00h |      40.50h
+März/April |       40.00h |      39.00h |      80.00h |      79.50h
+Mai        |       96.00h |      98.50h |     176.50h |     178.00h
+Juni       |       64.00h |             |     240.00h |   
+Juli       |       64.00h |             |     304.00h |     
+August     |       48.00h |             |     352.00h |     
+September  |       48.00h |             |     400.00h |   
+
+
+
 
 Die Soll Aufwände ergeben sich aus der [Grobplanung](planning.md).
 
