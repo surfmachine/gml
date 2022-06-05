@@ -15,8 +15,6 @@ August     |       48.00h |             |     352.00h |
 September  |       48.00h |             |     400.00h |   
 
 
-
-
 Die Soll Aufwände ergeben sich aus der [Grobplanung](planning.md).
 
 ## Aufwände
@@ -87,6 +85,7 @@ Total    |   98.50h | Aufwand
 -------- | -------- | ---------------------------------------------------------------
 01.06.22 |    6.00h | Einlesen Link Prediction, Programmmierung graph_link.py 
 04.06.22 |    4.00h | Programmmierung graph_link.py, Notebook10-GLP-Similarity, Recherche GNN 
+05.06.22 |    4.00h | Standford GNN Kursfolien eingelesen
 
 
 ---
