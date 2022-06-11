@@ -87,7 +87,8 @@ Total    |   98.50h | Aufwand
 04.06.22 |    4.00h | Programmmierung graph_link.py, Notebook10-GLP-Similarity, Recherche GNN 
 05.06.22 |    4.00h | Standford GNN Kursfolien eingelesen
 06.06.22 |    8.00h | Bericht Kapitel 5.1 bis 5.3 erstellt
-10.06.22 |    1.50h | Recherche GNN im Internet 
+10.06.22 |    1.50h | Recherche GNN 
+11.06.22 |    5.50h | Recherche GNN, Create Notebook11-GLP-Embedding with Node2Vec 
 
 
 ---
