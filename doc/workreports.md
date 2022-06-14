@@ -89,7 +89,10 @@ Total    |   98.50h | Aufwand
 06.06.22 |    8.00h | Bericht Kapitel 5.1 bis 5.3 erstellt
 10.06.22 |    1.50h | Recherche GNN 
 11.06.22 |    5.50h | Recherche GNN, Notebook11-GLP-Embedding with Node2Vec 
-13.06.22 |    7.00h | Notebook11-GLP-Embedding with Node2Vec, Bereicht Node2Vec, Start GraphSAGE
+13.06.22 |    7.00h | Notebook11-GLP-Embedding with Node2Vec, Bericht Node2Vec, Start GraphSAGE
+14.06.22 |    6.50h | Notebook12/13-GraphSAGE, Bericht GraphSAGE
+
+42.50
 
 ---
 [Zum Hauptmenu](../README.md)
