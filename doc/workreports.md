@@ -92,8 +92,9 @@ Total    |   98.50h | Aufwand
 13.06.22 |    7.00h | Notebook11-GLP-Embedding with Node2Vec, Bericht Node2Vec, Start GraphSAGE
 14.06.22 |    6.50h | Notebook12/13-GraphSAGE, Bericht GraphSAGE
 17.06.22 |    4.50h | Bericht Node2Vec, Skip-Gram, Random Walk
+18.06.22 |    5.00h | Notebook14-GCN, Bericht GCN, Grafiken GCN
 
-47.00
+52.00
 
 ---
 [Zum Hauptmenu](../README.md)
