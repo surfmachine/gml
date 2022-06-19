@@ -10,7 +10,7 @@ Nr | Storie                                         | Status
  2 | Systematische Recherche und Literaturauswahl   | :white_check_mark: 
  3 | Grundlagen erarbeiten                          | :white_check_mark:  
  4 | Daten analysieren und Testdaten bereitstellen  | :white_check_mark:  
- 5 | Taxonomie Link Prediction                      | :arrows_clockwise:
+ 5 | Taxonomie Link Prediction                      | :white_check_mark: 
  6 | Testumgebung bereitstellen                     | :arrows_clockwise:
  7 | Experimente durchführen                        | :black_square_button:
  8 | Auswertungen erstellen                         | :black_square_button:
@@ -36,7 +36,7 @@ Auswahl Thema und Erstellung Themenantrag. Besuch der WAW Pflichtmodule.
 **Aufgaben:**<br />
 Die systematische Recherche welche im Rahmen von Projektantrag ausgeführt wurde, wird nochmals ausgeführt und spezifisch auf den Projektscope ausgerichtet.
 
-**Ergebnisse:**
+**Ergebnisse:*
 - Literaturauswahl Grundlagen               :white_check_mark: 
 - Auswahl Internet Referenze GNN            :white_check_mark: 
 
@@ -68,7 +68,6 @@ Alternativ zu den effektiven Daten können auch syntetische Daten bereitgestellt
 Zusammentragen und Auswahl der geeigneten Link Prediction Taxonomie für die Experimente und den Bericht.
 
 **Ergebnisse:**
-- Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert. :arrows_clockwise:
 - Link Prediction Taxonomie für die Experimente ist defniert. :arrows_clockwise:
 
 ## 6. Testumgebung bereitstellen
@@ -79,6 +78,7 @@ Vorbereitung Testumgebung für die Experimente. Im Idealfall können diese lokal
 Falls es sich herausstellt, dass die Leistung des Laptop/Collab oder der eingesetzten Graphen Bibilotheken nicht ausreicht ist eine alternative Lösung zu suchen. Entweder sind effizientere Graph Bibliotheken zu evaluieren oder es soll eine Leistungsfähigere Laufzeitumgebung in der Cloud aufgesetzt werden.
 
 **Ergebnisse:**
+- Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert. :arrows_clockwise:
 - Die zu verwendenden Graphen Bibliotheken sind ausgewählt :arrows_clockwise:
 - Leistungstests sind durchgeführt und nachvollziehbar dokumentiert
 - Testumgebung ist definiert 

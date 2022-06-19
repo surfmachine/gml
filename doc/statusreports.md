@@ -5,15 +5,26 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 ## Juni 2022 (in Arbeit)
 
 Status per 30.06.2022:
-==TODO==
+- Die im Juni geplanten Stunden konnten geleistet werden. Details siehe [Arbeitsrapporte](workreports.md).
+- Der Arbeitsfortschritt stimmt mit der [Grobplanung](planning.md) überein.
+- Zwei weitere [Arbeitspakete](workpackages.md) konnten abgeschlossen werden.
+- Mit der Beschreibung der verschiedenen Link Prediction Ansätze konnte ein wichtiger Teil der Arbeit geleistet werden.
 
 Erledigte Arbeiten:
-- Abschluss [Arbeitspacket 2 Systematische Recherche](workpackages.md)
-- Implementation weitere [Basis Klassen](../graph/) graph_link
+- Abschluss [Arbeitspaket 2 Systematische Recherche](workpackages.md)
+- Abschluss [Arbeitspaket 5 Taxonomie Link Prediction](workpackages.md)
+- Implementation [Basis Klasse](../graph/) graph_link
 - [Notebook 10 Similarity based Graph Link Prediction](../notebooks/nb10-glp-similarity.ipynb)
+- [Notebook 11 Embedding based Graph Link Prediction](../notebooks/nb11-glp-embedding)
+- [Notebook 12 GCN Link Prediction](../notebooks/nb12-glp-gcn.ipynb)
+- [Notebook 13 Graph SAGE Link Prediction mit Subject als Features](../notebooks/nb13-glp-graph-sage-subject.ipynb)
+- [Notebook 14 Graph SAGE Link Prediction](../notebooks/nb14-glp-graph-sage.ipynb)
+- Bericht Kapitel 5. Graph Machine Learning erstellt
 
 Nächste Schritte:
-==TODO==
+- Auswahl Link Prediction Algorithmen für Experimente
+- Vorbereitung Experimente
+- Durchführung Experimente
 
 
 ## Mai 2022
@@ -27,7 +38,7 @@ Status per 28.05.2022:
 - Die Berichterstellung ist aufwendig und beansprucht mehr Zeit als gedacht.
 
 Erledigte Arbeiten:
-- Definition [Arbeitspackete 5-10](workpackages.md)
+- Definition [Arbeitspakete 5-10](workpackages.md)
 - Implementation weitere [Basis Klassen](../graph/) graph_embedding, graph_generator
 - Implementation [Daten Klassen](../graph/) im Modul data_factory mit Employee, DataCollection, DataFactory, etc.
 - [Notebook 05 Graph ML Embedding](../notebooks/nb05-gml-embedding.ipynb)
@@ -51,7 +62,7 @@ Status per 30.04.2022:
 - Die ersten [Arbeitspakete](workpackages.md) wurden definiert und sind in Arbeit.
 
 Erledigte Arbeiten:
-- Definition [Arbeitspackete 1-4](workpackages.md)
+- Definition [Arbeitspakete 1-4](workpackages.md)
 - Erstellung und Anpassung [Grobplanung](planning.md)
 - Erstellung [Installationsanweisung](installation.md) und Definition [Projektstruktur](structure.md)
 - Implementation [Basis Klassen](../graph/) graph, graph_viz, graph_builder, graph_utils
