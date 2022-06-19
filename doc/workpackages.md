@@ -112,8 +112,8 @@ Strukturierung und Erstellung Bericht gemäss den  Vorgaben der BFH. Durchführu
 - Bericht Strukturierung und Einleitung     :white_check_mark: 
 - Bericht Grundlagen Graphen und Graph ML   :white_check_mark:
 - Bericht Daten Analyse und Bereitstellung  :white_check_mark:
-- Bericht Link Prediction und Taxonomie     :arrows_clockwise:
-- Bericht Experimente und Auswertungen
+- Bericht Link Prediction und Taxonomie     :white_check_mark:
+- Bericht Experimente und Auswertungen      :arrows_clockwise: 
 - Bericht Fazit und Ausblick
 - Bericht Management Summary
 - Bericht Plagatisprüfung durchgeführt
