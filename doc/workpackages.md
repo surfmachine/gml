@@ -68,7 +68,7 @@ Alternativ zu den effektiven Daten können auch syntetische Daten bereitgestellt
 Zusammentragen und Auswahl der geeigneten Link Prediction Taxonomie für die Experimente und den Bericht.
 
 **Ergebnisse:**
-- Link Prediction Taxonomie für die Experimente ist defniert. :arrows_clockwise:
+- Link Prediction Taxonomie für die Experimente ist defniert. :white_check_mark: 
 
 ## 6. Testumgebung bereitstellen
 
@@ -80,8 +80,8 @@ Falls es sich herausstellt, dass die Leistung des Laptop/Collab oder der eingese
 **Ergebnisse:**
 - Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert. :arrows_clockwise:
 - Die zu verwendenden Graphen Bibliotheken sind ausgewählt :arrows_clockwise:
-- Leistungstests sind durchgeführt und nachvollziehbar dokumentiert
-- Testumgebung ist definiert 
+- Leistungstests sind durchgeführt und nachvollziehbar dokumentiert :arrows_clockwise:
+- Testumgebung ist definiert :arrows_clockwise:
 
 
 
