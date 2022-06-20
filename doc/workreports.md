@@ -93,8 +93,10 @@ Total    |   98.50h | Aufwand
 14.06.22 |    6.50h | Notebook12/13-GraphSAGE, Bericht GraphSAGE
 17.06.22 |    4.50h | Bericht Node2Vec, Skip-Gram, Random Walk
 18.06.22 |    5.00h | Notebook14-GCN, Bericht GCN, Grafiken GCN
+20.06.22 |    4.00h | Bericht und Grafiken GNN/GCN
+20.06.22 |    4.00h | Bericht Auswahl Graph Bibliotheken
 
-52.00
+60.00
 
 ---
 [Zum Hauptmenu](../README.md)
