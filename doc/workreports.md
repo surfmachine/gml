@@ -95,8 +95,9 @@ Total    |   98.50h | Aufwand
 18.06.22 |    5.00h | Notebook14-GCN, Bericht GCN, Grafiken GCN
 20.06.22 |    4.00h | Bericht und Grafiken GNN/GCN
 20.06.22 |    4.00h | Bericht Auswahl Graph Bibliotheken
+25.06.22 |    4.00h | Grafik und Bericht Python Graph Bibliotheken
 
-60.00
+64.00
 
 ---
 [Zum Hauptmenu](../README.md)
