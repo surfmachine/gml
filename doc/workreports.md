@@ -96,8 +96,9 @@ Total    |   98.50h | Aufwand
 20.06.22 |    4.00h | Bericht und Grafiken GNN/GCN
 20.06.22 |    4.00h | Bericht Auswahl Graph Bibliotheken
 25.06.22 |    4.00h | Grafik und Bericht Python Graph Bibliotheken
+25.06.22 |    2.00h | Einführung Modul measure für Messung System Metriken
 
-64.00
+66.00
 
 ---
 [Zum Hauptmenu](../README.md)

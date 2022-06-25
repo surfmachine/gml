@@ -16,3 +16,4 @@ dependencies:
       - karateclub==1.2.3
       - stellargraph==1.2.1
       - chardet==4.0.0
+      - psutil==5.9.1
