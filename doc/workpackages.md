@@ -78,10 +78,10 @@ Vorbereitung Testumgebung für die Experimente. Im Idealfall können diese lokal
 Falls es sich herausstellt, dass die Leistung des Laptop/Collab oder der eingesetzten Graphen Bibilotheken nicht ausreicht ist eine alternative Lösung zu suchen. Entweder sind effizientere Graph Bibliotheken zu evaluieren oder es soll eine Leistungsfähigere Laufzeitumgebung in der Cloud aufgesetzt werden.
 
 **Ergebnisse:**
-- Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert. :arrows_clockwise:
-- Die zu verwendenden Graphen Bibliotheken sind ausgewählt :arrows_clockwise:
-- Leistungstests sind durchgeführt und nachvollziehbar dokumentiert :arrows_clockwise:
-- Testumgebung ist definiert :arrows_clockwise:
+- Python Bibliotheken mit den entsprechenden Algorithmen sind ausgewählt und mit einfachen versuchen verifiziert. :white_check_mark:
+- Die zu verwendenden Graphen Bibliotheken sind ausgewählt :white_check_mark:
+- Leistungstests sind durchgeführt und nachvollziehbar dokumentiert :white_check_mark:
+- Testumgebung ist definiert :white_check_mark:
 
 
 
