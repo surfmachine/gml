@@ -100,6 +100,5 @@ Total    |   98.50h | Aufwand
 27.06.22 |    7.50h | Bericht Kapitel Überarbeitung, Ergänzungen und Korrekturen
 Total    |   78.00h | Aufwand
 
-
 ---
 [Zum Hauptmenu](../README.md)

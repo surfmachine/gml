@@ -13,6 +13,5 @@ Verzeichnis                  | Inhalt
 [playground](../playground)  | Python Snippets und Drafts
 [tests](../tests)            | Python Unit Tests
 
-
 ---
 [Zum Hauptmenu](../README.md)

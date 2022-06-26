@@ -3,7 +3,6 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 # Statusberichte
 
 ## Juni 2022
-
 Status per 27.06.2022:
 - Die im Juni geplanten Stunden konnten geleistet werden. Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt stimmt mit der [Grobplanung](planning.md) überein.
@@ -30,9 +29,7 @@ Nächste Schritte:
 - Auswahl Link Prediction Algorithmen für Experimente
 - Vorbereitung und Durchführung Experimente
 
-
 ## Mai 2022
-
 Status per 28.05.2022:
 - Der Verzug gegenüber der ersten Planung konnte zu grossen Teilen aufgeholt werden. Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt stimmt mit der [Grobplanung](planning.md) überein.
@@ -59,7 +56,6 @@ Nächste Schritte:
 - Start erste Experimente
 
 ## April 2022
-
 Status per 30.04.2022:
 - Die Arbeiten an der Master Thesis wurden mitte April gestartet. Details siehe [Arbeitsrapporte](workreports.md).
 - Bei der ursprüngliche Planung war der Start mitte März geplant. Die [Grobplanung](planning.md) wurde daher angepasst mit dem Ziel, den Verzug bis Ende Mai aufzuholen.
