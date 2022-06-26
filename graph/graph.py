@@ -18,14 +18,17 @@ class Graph:
     - https://networkx.org
     """
 
-    def __init__(self, nodes, edges, directed=False):
+    def __init__(self, nodes, edges, directed=False, communities=[], detect_multi_graph=True):
         """Create a graph instance."""
         # Properties
         self.nodes = nodes
         self.edges = edges
         self.directed = directed
         self.weighted = True if (len(edges) > 0 and len(edges[0]) > 2) else False
-        self.multi = self.detect_multi_graph()
+        if detect_multi_graph:
+            self.multi = self.detect_multi_graph()
+        else:
+            self.multi = False
         # Create network x graph instance
         if self.multi:
             self.graph = nx.MultiDiGraph() if self.directed else nx.MultiGraph()
@@ -38,6 +41,11 @@ class Graph:
             self.graph.add_weighted_edges_from(self.edges)
         else:
             self.graph.add_edges_from(self.edges)
+        # add communities
+        for community in communities:
+            c = community[0]
+            for n in community[1]:
+                self.graph.nodes[n]["community"] = c
 
     def detect_multi_graph(self):
         # skip additional edge infos (only use nodes for detection)
@@ -56,6 +64,10 @@ class Graph:
     def number_of_nodes(self):
         """Return the number of nodes."""
         return len(self.nodes)
+
+    def number_of_edges(self):
+        """Return the number of nodes."""
+        return len(self.edges)
 
     def properties(self):
         """Assemble the basic graph properties."""
@@ -95,6 +107,16 @@ class Graph:
             print(title + ":")
         for k in props:
             print(space, k.ljust(11), ":", props[k] )
+
+    def print_dimemsions(self, title=None, indention=2):
+        """Print the graph dimensions order and size."""
+        space = " " * (indention-1)
+        if title is None:
+            print("Graph dimensions:")
+        else:
+            print(title + ":")
+        print(space, "order :", self.number_of_nodes(), "(number of nodes)" )
+        print(space, "size  :", self.graph.number_of_edges(), "(number of edges)" )
 
     def draw(self, title=None, path=[], filename=None, layout=GraphViz.SHELL_LAYOUT):
         """Draw the graph with the default settings. If an additional path is defined, the edges of the listed path

@@ -97,8 +97,9 @@ Total    |   98.50h | Aufwand
 20.06.22 |    4.00h | Bericht Auswahl Graph Bibliotheken
 25.06.22 |    4.00h | Grafik und Bericht Python Graph Bibliotheken
 25.06.22 |    2.00h | Einführung Modul measure für Messung System Metriken
+26.06.22 |    4.50h | Notebook15-Performance, Notebook16-Performance-GNN   
 
-66.00
+70.50
 
 ---
 [Zum Hauptmenu](../README.md)

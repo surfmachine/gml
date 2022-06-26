@@ -16,6 +16,7 @@ class GraphBuilder:
         """Create new graph builder instance."""
         self.nodes = []
         self.edges = []
+        self.communities = []
 
     def append_node(self, node):
         """Append a single node, if not already present. Returns the builder instance."""
@@ -52,11 +53,35 @@ class GraphBuilder:
                 self.append_node(edge)
         return self
 
-    def create(self):
-        """Create a graph instance with the given nodes and edges and return the result."""
-        return Graph(self.nodes, self.edges)
+    def append_edges_file(self, file, sep=","):
+        edges = []
+        with open(file, "r") as f:
+            line = f.readline()
+            while (line):
+                source, target = line.split(sep=sep)
+                edges.append((source.strip(), target.strip()))
+                line = f.readline()
+        self.append_edges(edges)
+        return self
 
-    def create_directed(self):
+    def append_community(self, community, nodes):
+        """Append the given community to the graph for the list of nodes."""
+        self.communities.append((community, nodes))
+        return self
+
+    def append_communities(self, communities):
+        """Append a list of communities to the graph. The list of communities contails tuples. Each tuple has the
+         community as first element and the list of nodes as second.
+         """
+        for t in communities:
+            self.append_community(t[0],t[1])
+        return self
+
+    def create(self, detect_multi_graph=True):
+        """Create a graph instance with the given nodes and edges and return the result."""
+        return Graph(self.nodes, self.edges, communities=self.communities, detect_multi_graph=detect_multi_graph)
+
+    def create_directed(self, detect_multi_graph=True):
         """Create a directed graph instance with the given nodes and edges and return the result."""
-        return Graph(self.nodes, self.edges, directed=True)
+        return Graph(self.nodes, self.edges, directed=True, communities=self.communities, detect_multi_graph=detect_multi_graph)
 

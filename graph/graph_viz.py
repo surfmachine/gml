@@ -71,6 +71,7 @@ class GraphViz:
             for node, coords in node_pos.items():
                 label_coords[node] = (coords[0], coords[1] + 0.1)
             nx.draw_networkx_labels(graph, label_coords, font_family='Arial', font_size=15)
+
         #
         # draw weights
         #

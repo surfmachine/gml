@@ -7,14 +7,14 @@ from .graph_builder import GraphBuilder
 # ---------------------------------------------------------------------------------------------------------------------
 
 class GraphRoot:
-    """Organisation root test data class."""
+    """Common root node for the entire test graph."""
     NAME = "GR"
     def __init__(self):
         """Create instance."""
         self.name = GraphRoot.NAME
 
 class OrgRoot:
-    """Organisation root test data class."""
+    """Organisation root node data class."""
     NAME = "OR"
     def __init__(self):
         """Create instance."""
@@ -52,6 +52,10 @@ class Employee:
         self.weight_fn = weight_fn
         self.weight_ln = weight_ln
         self.weight_type_nodes = weight_type_nodes
+
+    @staticmethod
+    def create_name(i):
+        return Employee.NAME_PREFIX + str(i)
 
     def edges(self):
         return self.connect_to_childs(self.name, self.add_type_nodes)
@@ -112,6 +116,7 @@ class DataRoot:
         """Create instance."""
         self.name = DataRoot.NAME
 
+
 class DataCollection:
     """Data collection test data class."""
     NAME_PREFIX = "DC"
@@ -119,12 +124,21 @@ class DataCollection:
         """Create instance."""
         self.name = DataCollection.NAME_PREFIX + str(i)
 
+    @staticmethod
+    def create_name(i):
+        return DataCollection.NAME_PREFIX + str(i)
+
+
 class MatchingCluster:
     """MatchingCluster test data class."""
     NAME_PREFIX = "MC"
     def __init__(self, i):
         """Create instance."""
         self.name = MatchingCluster.NAME_PREFIX + str(i)
+
+    @staticmethod
+    def create_name(i):
+        return MatchingCluster.NAME_PREFIX + str(i)
 
 # ---------------------------------------------------------------------------------------------------------------------
 # Test data factory
