@@ -2,29 +2,32 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 # Statusberichte
 
-## Juni 2022 (in Arbeit)
+## Juni 2022
 
-Status per 30.06.2022:
+Status per 27.06.2022:
 - Die im Juni geplanten Stunden konnten geleistet werden. Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt stimmt mit der [Grobplanung](planning.md) überein.
-- Zwei weitere [Arbeitspakete](workpackages.md) konnten abgeschlossen werden.
+- Drei weitere [Arbeitspakete](workpackages.md) konnten abgeschlossen werden.
 - Mit der Beschreibung der verschiedenen Link Prediction Ansätze konnte ein wichtiger Teil der Arbeit geleistet werden.
 
 Erledigte Arbeiten:
 - Abschluss [Arbeitspaket 2 Systematische Recherche](workpackages.md)
 - Abschluss [Arbeitspaket 5 Taxonomie Link Prediction](workpackages.md)
+- Abschluss [Arbeitspaket 6 Testumgebung bereitstellen](workpackages.md)
 - Implementation [Basis Klasse](../graph/) graph_link
 - [Notebook 10 Similarity based Graph Link Prediction](../notebooks/nb10-glp-similarity.ipynb)
 - [Notebook 11 Embedding based Graph Link Prediction](../notebooks/nb11-glp-embedding.ipynb)
 - [Notebook 12 GCN Link Prediction](../notebooks/nb12-glp-gcn.ipynb)
 - [Notebook 13 Graph SAGE Link Prediction mit Subject als Features](../notebooks/nb13-glp-graph-sage-subject.ipynb)
 - [Notebook 14 Graph SAGE Link Prediction](../notebooks/nb14-glp-graph-sage.ipynb)
+- [Notebook 15 Performance](../notebooks/nb15-performance.ipynb)
+- [Notebook 16 Performance GNN](../notebooks/nb16-performance-gnn.ipynb)
 - Bericht Kapitel 5. Graph Machine Learning erstellt
+- Start Bericht Kapitel 6.1 Vorbereitung Experimente 
 
 Nächste Schritte:
 - Auswahl Link Prediction Algorithmen für Experimente
-- Vorbereitung Experimente
-- Durchführung Experimente
+- Vorbereitung und Durchführung Experimente
 
 
 ## Mai 2022
