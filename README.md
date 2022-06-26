@@ -17,8 +17,9 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 - Projektaufbau
   - [Installationsanleitung](doc/installation.md)
   - [Projektstrukur](doc/structure.md)
-  - [Graph Klassen Implemetation](graph/) 
-  - [Graph Klassen Tests](tests/)
+  - [Klassen Graph](graph/) 
+  - [Klassen Measure](measure/) 
+  - [Klassen Tests](tests/)
 
 - Graphen
   - [Notebook 01 Graph Intro](notebooks/nb01-graph-intro.ipynb)
@@ -43,7 +44,13 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   - [Notebook 13 Graph SAGE Link Prediction mit Subject als Features](notebooks/nb13-glp-graph-sage-subject.ipynb)
   - [Notebook 14 Graph SAGE Link Prediction mit Identity Matrix](notebooks/nb14-glp-graph-sage.ipynb)
 
-- [Experimente und Auswertungen]
+- Experimente und Auswertungen
+  - Vorbereitungen
+    - [Notebook 15 Performance](notebooks/nb15-performance.ipynb)
+    - [Notebook 16 Performance GNN](notebooks/nb16-performance-gnn.ipynb)
+
+  - [Experimente]
+  - [Auswertungen]
 
 - [Referenzen](doc/references.md)
 
