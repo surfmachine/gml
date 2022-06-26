@@ -11,7 +11,7 @@ Nr | Storie                                         | Status
  3 | Grundlagen erarbeiten                          | :white_check_mark:  
  4 | Daten analysieren und Testdaten bereitstellen  | :white_check_mark:  
  5 | Taxonomie Link Prediction                      | :white_check_mark: 
- 6 | Testumgebung bereitstellen                     | :arrows_clockwise:
+ 6 | Testumgebung bereitstellen                     | :white_check_mark:
  7 | Experimente durchführen                        | :arrows_clockwise:
  8 | Auswertungen erstellen                         | :black_square_button:
  9 | Bericht und Bookeintrag verfassen              | :arrows_clockwise:
