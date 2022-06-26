@@ -14,7 +14,7 @@ Erledigte Arbeiten:
 - Abschluss [Arbeitspaket 2 Systematische Recherche](workpackages.md)
 - Abschluss [Arbeitspaket 5 Taxonomie Link Prediction](workpackages.md)
 - Abschluss [Arbeitspaket 6 Testumgebung bereitstellen](workpackages.md)
-- Implementation [Basis Klasse](../graph/) Algorithm und GraphLink
+- Implementation [Basis Klassen](../graph/) Algorithm und GraphLink
 - Implementation [Measure Klassen](../measure/) SystemMeter, CpuSystemMeter, MemorySystemMeter, TimeSystemMeter und StopWatch
 - [Notebook 10 Similarity based Graph Link Prediction](../notebooks/nb10-glp-similarity.ipynb)
 - [Notebook 11 Embedding based Graph Link Prediction](../notebooks/nb11-glp-embedding.ipynb)
