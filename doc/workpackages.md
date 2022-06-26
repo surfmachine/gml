@@ -91,8 +91,8 @@ Falls es sich herausstellt, dass die Leistung des Laptop/Collab oder der eingese
 Sammeln von Fragestellungen und Vermutungen. Planung und Durchführung der Experimente. Auswertung der Resultate und Ableiten von Fragen und Vermutungen für die nächsten Experimente.
 
 **Ergebnisse:**
-- Experimente sind durchgeführt und gemäss Experimentierzyklus dokumentiert.
-- Resultate sind für die weiteren Auswertungen elektronisch festgehalten.
+- Experimente sind durchgeführt und gemäss Experimentierzyklus dokumentiert. :arrows_clockwise: 
+- Resultate sind für die weiteren Auswertungen elektronisch festgehalten. :arrows_clockwise: 
 
 
 ## 8. Auswertungen erstellen
