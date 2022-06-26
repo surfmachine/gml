@@ -48,7 +48,6 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   - Vorbereitungen
     - [Notebook 15 Performance](notebooks/nb15-performance.ipynb)
     - [Notebook 16 Performance GNN](notebooks/nb16-performance-gnn.ipynb)
-
   - [Experimente]
   - [Auswertungen]
 
