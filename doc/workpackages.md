@@ -73,7 +73,7 @@ Zusammentragen und Auswahl der geeigneten Link Prediction Taxonomie für die Exp
 ## 6. Testumgebung bereitstellen
 
 **Aufgaben:**<br />
-Vorbereitung Testumgebung für die Experimente. Im Idealfall können diese lokal auf einem PC durchgeführt werden oder mit Google Colab. Zu diesem Zweck sind grössere Testläufe mit Grapen von einigen 100 bis 1000 Knoten und Verbindungen durchzuführen. 
+Vorbereitung Testumgebung für die Experimente. Im Idealfall können diese lokal auf einem PC durchgeführt werden oder mit Google Colab. Zu diesem Zweck sind grössere Testläufe mit Grapen von einigen 1000 bis 10000 Knoten und Verbindungen durchzuführen. 
 
 Falls es sich herausstellt, dass die Leistung des Laptop/Collab oder der eingesetzten Graphen Bibilotheken nicht ausreicht ist eine alternative Lösung zu suchen. Entweder sind effizientere Graph Bibliotheken zu evaluieren oder es soll eine Leistungsfähigere Laufzeitumgebung in der Cloud aufgesetzt werden.
 
