@@ -9,7 +9,7 @@ Zeitraum   | Aufwand Soll | Aufwand Ist |  Total Soll |   Total Ist
 Q4/21-Q1/22|       40.00h |      40.50h |      40.00h |      40.50h
 März/April |       40.00h |      39.00h |      80.00h |      79.50h
 Mai        |       96.00h |      98.50h |     176.50h |     178.00h
-Juni       |       64.00h |      78.00h |     240.00h |     256.00h
+Juni       |       64.00h |      79.00h |     240.00h |     257.00h
 Juli       |       64.00h |             |     304.00h |     
 August     |       48.00h |             |     352.00h |     
 September  |       48.00h |             |     400.00h |   
@@ -97,8 +97,8 @@ Total    |   98.50h | Aufwand
 25.06.22 |    4.00h | Grafik und Bericht Python Graph Bibliotheken
 25.06.22 |    2.00h | Einführung Modul measure für Messung System Metriken
 26.06.22 |    4.50h | Notebook15-Performance, Notebook16-Performance-GNN   
-27.06.22 |    7.50h | Bericht Kapitel Überarbeitung, Ergänzungen und Korrekturen
-Total    |   78.00h | Aufwand
+27.06.22 |    8.50h | Bericht Kapitel Überarbeitung, Ergänzungen und Korrekturen
+Total    |   79.00h | Aufwand
 
 ---
 [Zum Hauptmenu](../README.md)
