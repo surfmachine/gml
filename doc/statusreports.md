@@ -18,8 +18,8 @@ Erledigte Arbeiten:
 - [Notebook 10 Similarity based Graph Link Prediction](../notebooks/nb10-glp-similarity.ipynb)
 - [Notebook 11 Embedding based Graph Link Prediction](../notebooks/nb11-glp-embedding.ipynb)
 - [Notebook 12 GCN Link Prediction](../notebooks/nb12-glp-gcn.ipynb)
-- [Notebook 13 Graph SAGE Link Prediction mit Subject als Features](../notebooks/nb13-glp-graph-sage-subject.ipynb)
-- [Notebook 14 Graph SAGE Link Prediction](../notebooks/nb14-glp-graph-sage.ipynb)
+- [Notebook 13 Graph SAGE Link Prediction mit Subject als Node Features](../notebooks/nb13-glp-graph-sage-subject.ipynb)
+- [Notebook 14 Graph SAGE Link Prediction mit Identiy Matrix als Node Features](../notebooks/nb14-glp-graph-sage.ipynb)
 - [Notebook 15 Performance](../notebooks/nb15-performance.ipynb)
 - [Notebook 16 Performance GNN](../notebooks/nb16-performance-gnn.ipynb)
 - Bericht Kapitel 5. Graph Machine Learning erstellt

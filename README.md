@@ -41,8 +41,8 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   - [Notebook 10 Similarity based Graph Link Prediction](notebooks/nb10-glp-similarity.ipynb)
   - [Notebook 11 Embedding based Graph Link Prediction](notebooks/nb11-glp-embedding.ipynb)
   - [Notebook 12 GCN Link Prediction](notebooks/nb12-glp-gcn.ipynb)
-  - [Notebook 13 Graph SAGE Link Prediction mit Subject als Features](notebooks/nb13-glp-graph-sage-subject.ipynb)
-  - [Notebook 14 Graph SAGE Link Prediction mit Identity Matrix](notebooks/nb14-glp-graph-sage.ipynb)
+  - [Notebook 13 Graph SAGE Link Prediction mit Subject als Node Features](notebooks/nb13-glp-graph-sage-subject.ipynb)
+  - [Notebook 14 Graph SAGE Link Prediction mit Identity Matrix als Node Features](notebooks/nb14-glp-graph-sage.ipynb)
 
 - Experimente und Auswertungen
   - Vorbereitungen
