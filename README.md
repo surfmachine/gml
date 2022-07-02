@@ -25,7 +25,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   - [Notebook 01 Graph Intro](notebooks/nb01-graph-intro.ipynb)
   - [Notebook 02 Graph Matrix](notebooks/nb02-graph-matrix.ipynb)
   - [Notebook 03 Graph Edge List](notebooks/nb03-graph-edge-list.ipynb)
-  - [Notebook 04 Graph Metrics](notebooks/nb04-graph-metrics.ipynb)
+  - [Notebook 04 Graph Measures](notebooks/nb04-graph-measures.ipynb)
 
 - Graph Machine Learning
   - [Notebook 05 Graph ML Embedding](notebooks/nb05-gml-embedding.ipynb)

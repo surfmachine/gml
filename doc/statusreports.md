@@ -69,7 +69,7 @@ Erledigte Arbeiten:
 - Implementation [Notebook 01 Graph Intro](../notebooks/nb01-graph-intro.ipynb)
 - Implementation [Notebook 02 Graph Matrix](../notebooks/nb02-graph-matrix.ipynb)
 - Implementation [Notebook 03 Graph Edge List](../notebooks/nb03-graph-edge-list.ipynb)
-- Implementation [Notebook 04 Graph Metrics](../notebooks/nb04-graph-metrics.ipynb)
+- Implementation [Notebook 04 Graph Measures](../notebooks/nb04-graph-measures.ipynb)
 
 Nächste Schritte:
 - Grundlagen Grahp Machine Learning 
