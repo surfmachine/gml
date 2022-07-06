@@ -108,8 +108,11 @@ Total    |   80.00h | Aufwand
 01.07.22 |    1.00h | Einarbeitung Befunde Kapitel 1-5
 02.07.22 |    4.00h | Bericht Überarbeitung Zitationen, Erstellung Grafiken
 04.07.22 |    8.00h | Bericht Zitationen ergänzt, Normierungsfunktion für GraphLink Klasse erstellt, Data Factory mit GA/Direktion/DoubleEmployee Klassen ergänzt, Start Notebook17 mit ersten Experimenten.
+05.07.22 |    2.00h | Experiment Similarity based Link Prediction 
+06.07.22 |    2.00h | Implementation EdgeLabelFactory für Experimente
 
-13h
+
+17h
 
 ---
 [Zum Hauptmenu](../README.md)
