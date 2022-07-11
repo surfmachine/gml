@@ -49,6 +49,10 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
     - [Notebook 15 Performance](notebooks/nb15-performance.ipynb)
     - [Notebook 16 Performance GNN](notebooks/nb16-performance-gnn.ipynb)
   - [Experimente]
+    - [Experiment 1 Similarity Scenario A](experiments/ex01-similarity-scenario-a.ipynb)
+    - [Experiment 2 Similarity Scenario B](experiments/ex02-similarity-scenario-b.ipynb)
+    - [Experiment 3 Similarity Scenario C](experiments/ex03-similarity-scenario-c.ipynb)
+    - [Experiment 4 Similarity Scenario D](experiments/ex04-similarity-scenario-d.ipynb)
   - [Auswertungen]
 
 - [Referenzen](doc/references.md)

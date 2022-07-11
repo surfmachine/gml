@@ -7,6 +7,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 Verzeichnis                  | Inhalt
 ---------------------------- | ----------------------------------------------------------  
 [doc](../doc)                | Dokumentation
+[experiments](../experiments)| Python Experimente (Notebooks und Scripts)
 [graph](../graph)            | Python Graph Basis Klassen
 [measure](../measure)        | Python Klassen für System Messungen
 [notebooks](../notebooks)    | Python Notebooks 
