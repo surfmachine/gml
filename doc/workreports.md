@@ -112,8 +112,11 @@ Total    |   80.00h | Aufwand
 06.07.22 |    2.00h | Implementation EdgeLabelFactory für Experimente
 10.07.22 |    2.00h | Implementation Metriken und Experiment 1
 11.07.22 |    8.00h | Implementation Experimente 2-5
+12.07.22 |    2.00h | Bericht Experiment 1-4 Fragen, Vermutungen, Planung und Druchführung
+15.07.22 |    2.50h | Bericht Experiment 1-4 Auswertungen
 
-27h
+
+31.50 h
 
 ---
 [Zum Hauptmenu](../README.md)
