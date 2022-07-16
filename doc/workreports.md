@@ -114,9 +114,9 @@ Total    |   80.00h | Aufwand
 11.07.22 |    8.00h | Implementation Experimente 2-5
 12.07.22 |    2.00h | Bericht Experiment 1-4 Fragen, Vermutungen, Planung und Druchführung
 15.07.22 |    2.50h | Bericht Experiment 1-4 Auswertungen
-16.07.22 |    4.50h | Bericht Experiment 5 Auswertungen, Erstelltung TestTrainDataFactory für Experiment 6, Erstellung Experiment 6 erster Wurf
+16.07.22 |    2.50h | Bericht Experiment 5 Auswertungen, Erstelltung TestTrainDataFactory für Experiment 6, Erstellung Experiment 6 Exploration und Tests mit Window Grösse
 
-36h
+38h
 
 ---
 [Zum Hauptmenu](../README.md)
