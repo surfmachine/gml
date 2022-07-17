@@ -2,6 +2,9 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 # Statusberichte
 
+## Juli 2022
+
+
 ## Juni 2022
 Status per 27.06.2022:
 - Die im Juni geplanten Stunden konnten geleistet werden. Details siehe [Arbeitsrapporte](workreports.md).

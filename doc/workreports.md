@@ -115,6 +115,7 @@ Total    |   80.00h | Aufwand
 12.07.22 |    2.00h | Bericht Experiment 1-4 Fragen, Vermutungen, Planung und Druchführung
 15.07.22 |    2.50h | Bericht Experiment 1-4 Auswertungen
 16.07.22 |    2.50h | Bericht Experiment 5 Auswertungen, Erstelltung TestTrainDataFactory für Experiment 6, Erstellung Experiment 6 Exploration und Tests mit Window Grösse
+17.07.22 |    4.00h | Experimente 6-8 mit verschiednenen Node2Vec Tests 
 
 38h
 

@@ -53,7 +53,11 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
     - [Experiment 2 Similarity Scenario B Datensammlung - Mitarbeiter](experiments/ex02-similarity-scenario-b.ipynb)
     - [Experiment 3 Similarity Scenario C Datensammlung - Mitarbeiter typisiert](experiments/ex03-similarity-scenario-c.ipynb)
     - [Experiment 4 Similarity Scenario D Datensammlung - Mitarbeiter mit Organisation](experiments/ex04-similarity-scenario-d.ipynb)
-    - [Experiment 5 Similarity with Community](experiments/ex05-similarity-community.ipynb)
+    - [Experiment 5 Similarity with Community](experiments/ex05-similarity-community.ipynb)    
+    - [Experiment 6 Node2Vec Exploration Tests](experiments/ex06-node2vec-exploration.ipynb) 
+    - [Experiment 7 Node2Vec Parameter Tests](experiments/ex07-node2vec-params.ipynb) 
+    - [Experiment 8 Node2Vec Mitarbeiter Tests](experiments/ex08-node2vec-employee.ipynb) 
+
 
 - [Referenzen](doc/references.md)
 
