@@ -12,8 +12,8 @@ Nr | Storie                                         | Status
  4 | Daten analysieren und Testdaten bereitstellen  | :white_check_mark:  
  5 | Taxonomie Link Prediction                      | :white_check_mark: 
  6 | Testumgebung bereitstellen                     | :white_check_mark:
- 7 | Experimente durchführen                        | :arrows_clockwise:
- 8 | Auswertungen erstellen                         | :black_square_button:
+ 7 | Experimente durchführen                        | :white_check_mark:
+ 8 | Auswertungen erstellen                         | :arrows_clockwise:
  9 | Bericht und Bookeintrag verfassen              | :arrows_clockwise:
 10 | Präsentation erstellen                         | :black_square_button:
 
@@ -36,7 +36,7 @@ Auswahl Thema und Erstellung Themenantrag. Besuch der WAW Pflichtmodule.
 **Aufgaben:**<br />
 Die systematische Recherche welche im Rahmen von Projektantrag ausgeführt wurde, wird nochmals ausgeführt und spezifisch auf den Projektscope ausgerichtet.
 
-**Ergebnisse:*
+**Ergebnisse:**
 - Literaturauswahl Grundlagen               :white_check_mark: 
 - Auswahl Internet Referenze GNN            :white_check_mark: 
 
@@ -91,8 +91,8 @@ Falls es sich herausstellt, dass die Leistung des Laptop/Collab oder der eingese
 Sammeln von Fragestellungen und Vermutungen. Planung und Durchführung der Experimente. Auswertung der Resultate und Ableiten von Fragen und Vermutungen für die nächsten Experimente.
 
 **Ergebnisse:**
-- Experimente sind durchgeführt und gemäss Experimentierzyklus dokumentiert. :arrows_clockwise: 
-- Resultate sind für die weiteren Auswertungen elektronisch festgehalten. :arrows_clockwise: 
+- Experimente sind durchgeführt und gemäss Experimentierzyklus dokumentiert. :white_check_mark:
+- Resultate sind für die weiteren Auswertungen elektronisch festgehalten. :white_check_mark: 
 
 
 ## 8. Auswertungen erstellen
@@ -101,7 +101,7 @@ Sammeln von Fragestellungen und Vermutungen. Planung und Durchführung der Exper
 Die Ergebnisse werden aufbereittet und die Resultate werden interpretiert. Die verwendeten Link Prediction Ansätze werden untereinander verglichen und dem regelbasierten Ansatz der EDC Anwendung gegenübergestellt.
 
 **Ergebnisse:**
-- Die Ergebnisse sind aufbereitet, ausgewertet und dokumentiert.
+- Die Ergebnisse sind aufbereitet, ausgewertet und dokumentiert. :arrows_clockwise: 
 
 
 ## 9. Bericht und Bookeintrag verfassen
@@ -109,19 +109,15 @@ Die Ergebnisse werden aufbereittet und die Resultate werden interpretiert. Die v
 **Aufgaben:**<br />
 Strukturierung und Erstellung Bericht gemäss den  Vorgaben der BFH. Durchführung Plagiatsprüfung. Erstellung Bookeintrag.
 
+**Ergebnisse:**
 - Bericht Strukturierung und Einleitung     :white_check_mark: 
 - Bericht Grundlagen Graphen und Graph ML   :white_check_mark:
 - Bericht Daten Analyse und Bereitstellung  :white_check_mark:
 - Bericht Link Prediction und Taxonomie     :white_check_mark:
-- Bericht Experimente und Auswertungen      :arrows_clockwise: 
-- Bericht Fazit und Ausblick
-- Bericht Management Summary
-- Bericht Plagatisprüfung durchgeführt
-- Bookeintrag
-
-
-**Ergebnisse:**
-- Bericht erstellt und Plagatisprüfung durchgeführt
+- Bericht Experimente und Auswertungen      :arrows_clockwise:
+- Bericht Fazit und Ausblick                :arrows_clockwise:
+- Bericht Management Summary                :arrows_clockwise:
+- Plagatisprüfung durchgeführt
 - Bookeintrag erstellt
 
 ## 10. Präsentation erstellen

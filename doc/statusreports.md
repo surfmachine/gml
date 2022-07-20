@@ -3,9 +3,34 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 # Statusberichte
 
 ## Juli 2022
+Status per 30.07.2022:
+- Die geplanten Stunden im Juli wurde übertroffen. Details siehe [Arbeitsrapporte].
+- Der Arbeitsfortschritt ist der [Grobplanung](planning.md) voraus.
+- Ein Abschluss des Berichts auf Ende August ist realistisch. 
+- Ein weiteres [Arbeitspakete](workpackages.md) konnte abgeschlossen werden.
+- Mit der Durchführung der Experimente konnte der zweite wichtige Teil der Arbeit abgeschlossen werden.
 
+Erledigte Arbeiten:
+- Abschluss [Arbeitspaket 7 Experimente durchführen](workpackages.md)
+- Implementation [Data Factory Klassen](../graph/data_factory.py) EdgeLabelFactory und TestTrainDataFactory
+- [Experiment 01 Similarity based Scenario A](../experiments/ex01-similarity-scenario-a.ipynb)
+- [Experiment 02 Similarity based Scenario B](../experiments/ex02-similarity-scenario-b.ipynb)
+- [Experiment 03 Similarity based Scenario C](../experiments/ex03-similarity-scenario-c.ipynb)
+- [Experiment 04 Similarity based Scenario D](../experiments/ex04-similarity-scenario-d.ipynb)
+- [Experiment 05 Similarity community](../experiments/ex05-similarity-community.ipynb)
+- [Experiment 06 Node2Vec Exploration](../experiments/ex06-node2vec-exploration.ipynb)
+- [Experiment 07 Node2Vec Parameters](../experiments/ex07-node2vec-params.ipynb)
+- [Experiment 08 Node2Vec Employee](../experiments/ex08-node2vec-employee.ipynb)
+- ==TODO==
+- Bericht Kapitel 6 Experimente und Auswertungen erstellt
+
+Nächste Schritte:
+- Bericht Kapitel 7 Fazit und Ausblick erstellen
+- Bericht Management Summary erstellen
+- Abschluss Bericht per Ende August
 
 ## Juni 2022
+
 Status per 27.06.2022:
 - Die im Juni geplanten Stunden konnten geleistet werden. Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt stimmt mit der [Grobplanung](planning.md) überein.

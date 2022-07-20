@@ -116,8 +116,10 @@ Total    |   80.00h | Aufwand
 15.07.22 |    2.50h | Bericht Experiment 1-4 Auswertungen
 16.07.22 |    2.50h | Bericht Experiment 5 Auswertungen, Erstelltung TestTrainDataFactory für Experiment 6, Erstellung Experiment 6 Exploration und Tests mit Window Grösse
 17.07.22 |    4.00h | Experimente 6-8 mit verschiednenen Node2Vec Tests 
+18.07.22 |    7.00h | Bereicht Experimente 6-8, Start Experiment 9
+19.07.22 |    1.00h | Start Experiment 9 Runner für verschiedene Konfigurationen
 
-38h
+46h
 
 ---
 [Zum Hauptmenu](../README.md)

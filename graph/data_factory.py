@@ -408,8 +408,10 @@ class EdgeLabelFactory:
 # ------------------------------------f---------------------------------------------------------------------------------
 
 class TestTrainDataFactory():
-    """Create complete graphs including test- and train graphs with samples and labels. The class assembles the
-    capabilities of the TestDataFactory and EdgeLabelFactory to generate all needed data sets for some experiments.
+    """Create complete graphs including test- and train graphs with samples and labels.
+
+    The class assembles the capabilities of the TestDataFactory and EdgeLabelFactory
+    to generate all needed data sets for some experiments.
     """
     def __init__(self):
         self.df = DataFactory()
@@ -417,6 +419,28 @@ class TestTrainDataFactory():
 
     def create_testdata(self, n, from_node="EM", to_node="DC", p=0.5, shuffle=True,
                         add_id=False, add_dc=True, add_predict_edges=True, add_org=True):
+        """Create all needed test data sets for a supervised learning setup. The methods simulates n data structures
+        of the EDC graph database.
+
+        Each data structure contains: data collection, matching cluster, identifer, first- and lastname, employee and
+        employee x. Further more the data collection, matching cluster, employee and employee x are assigned to their
+        organization units. This is either the direction or the general agency (employee x only).
+
+        Parameters:
+            n:          The number of data structure parts according the EDC.
+            from_node:  The name of the from node for the possible link predictions.
+            to_node:    The name fo the to node for the possible link predictions.
+            p:          Percent of n for generating test- and train sets.
+            shuffle:    Shuffle the positive and negative link prediction samples (defaults to True).
+            add_id:     Add the identifier to the data structure (defaults to False).
+            add_dc:     Add data collection (defaults to True).
+            add_predict_edges:
+                        Add employee - data collection link samples to the graph (defaults to True).
+            add_org:    Add the organisation units to the graph (defaults to True).
+
+        Returns:
+            graph, test_graph, test_samples, test_labels, train_graph, train_samples, train_labels
+        """
 
         # create fully linked graph
         base_edges = self.df.create_edges_with_doubles(n=n, add_id=add_id, add_dc=add_dc,
@@ -428,14 +452,16 @@ class TestTrainDataFactory():
             graph = GraphBuilder().append_edges(base_edges).create()
 
         # create test data
-        test_edges, test_samples, test_labels = self.ef.edge_splitter(from_node, to_node, link_edges, p=p, shuffle=shuffle)
+        test_edges, test_samples, test_labels = \
+            self.ef.edge_splitter(from_node, to_node, link_edges, p=p, shuffle=shuffle)
         if add_predict_edges:
             test_graph = GraphBuilder().append_edges(base_edges).append_edges(test_edges).create()
         else:
             test_graph = GraphBuilder().append_edges(base_edges).create()
 
         # create train data
-        train_edges, train_samples, train_labels = self.ef.edge_splitter(from_node, to_node, test_edges, p=p, shuffle=shuffle)
+        train_edges, train_samples, train_labels \
+            = self.ef.edge_splitter(from_node, to_node, test_edges, p=p, shuffle=shuffle)
         if add_predict_edges:
             train_graph = GraphBuilder().append_edges(base_edges).append_edges(train_edges).create()
         else:
