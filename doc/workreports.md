@@ -118,8 +118,10 @@ Total    |   80.00h | Aufwand
 17.07.22 |    4.00h | Experimente 6-8 mit verschiednenen Node2Vec Tests 
 18.07.22 |    7.00h | Bereicht Experimente 6-8, Start Experiment 9
 19.07.22 |    1.00h | Start Experiment 9 Runner für verschiedene Konfigurationen
+20.07.22 |    0.50h | Statusbericht Zwischenstand erstellt
+22.07.22 |    5.50h | Tests mit GraphSage im playground, Start Bericht Experiment 9
 
-46h
+52h
 
 ---
 [Zum Hauptmenu](../README.md)
