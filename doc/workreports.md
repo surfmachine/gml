@@ -10,7 +10,7 @@ Q4/21-Q1/22|       40.00h |      40.50h |      40.00h |      40.50h
 März/April |       40.00h |      39.00h |      80.00h |      79.50h
 Mai        |       96.00h |      98.50h |     176.50h |     178.00h
 Juni       |       64.00h |      80.00h |     240.00h |     258.00h
-Juli       |       64.00h |             |     304.00h |     
+Juli       |       64.00h |      70.00h |     304.00h |     328.00h      
 August     |       48.00h |             |     352.00h |     
 September  |       48.00h |             |     400.00h |   
 
@@ -120,8 +120,14 @@ Total    |   80.00h | Aufwand
 19.07.22 |    1.00h | Start Experiment 9 Runner für verschiedene Konfigurationen
 20.07.22 |    0.50h | Statusbericht Zwischenstand erstellt
 22.07.22 |    5.50h | Tests mit GraphSage im playground, Start Bericht Experiment 9
+23.07.22 |    4.00h | Experimente GraphSAGE 9-10
+25.07.22 |    8.00h | Experimente GraphSAGE 11-12, Bericht Experiment 9-12
+29.07.22 |    5.00h | Bericht Experiment 9-12
+30.07.22 |    1.00h | Statusbericht
+Total    |   70.00h | Aufwand
 
-52h
+
+
 
 ---
 [Zum Hauptmenu](../README.md)
