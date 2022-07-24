@@ -28,9 +28,9 @@ Erledigte Arbeiten:
 - Bericht Kapitel 6 Experimente und Auswertungen erstellt
 
 Nächste Schritte:
-- Bericht Kapitel 7 Fazit und Ausblick erstellen
+- Bericht Korrekturlesen 
+- Bericht Kapitel Fazit und Ausblick erstellen
 - Bericht Management Summary erstellen
-- Abschluss Bericht per Ende August
 
 ## Juni 2022
 
