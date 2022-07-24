@@ -21,7 +21,10 @@ Erledigte Arbeiten:
 - [Experiment 06 Node2Vec Exploration](../experiments/ex06-node2vec-exploration.ipynb)
 - [Experiment 07 Node2Vec Parameters](../experiments/ex07-node2vec-params.ipynb)
 - [Experiment 08 Node2Vec Employee](../experiments/ex08-node2vec-employee.ipynb)
-- ==TODO==
+- [Experiment 09 GraphSAGE Exploration Tests](../experiments/ex09-graphsage-exploration.ipynb) 
+- [Experiment 10 GraphSAGE Parameter Tests](../experiments/ex10-graphsage-params.ipynb) 
+- [Experiment 11 GraphSAGE Mitarbeiter Tests](../experiments/ex11-graphsage-employee.ipynb) 
+- [Experiment 12 GraphSAGE Node Features Tests](../experiments/ex12-graphsage-features.ipynb) 
 - Bericht Kapitel 6 Experimente und Auswertungen erstellt
 
 Nächste Schritte:

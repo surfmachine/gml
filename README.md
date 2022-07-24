@@ -44,22 +44,21 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   - [Notebook 13 Graph SAGE Link Prediction mit Subject als Node Features](notebooks/nb13-glp-graph-sage-subject.ipynb)
   - [Notebook 14 Graph SAGE Link Prediction mit Identity Matrix als Node Features](notebooks/nb14-glp-graph-sage.ipynb)
 
+- Vorbereitung Experimente
+  - [Notebook 15 Performance](notebooks/nb15-performance.ipynb)
+  - [Notebook 16 Performance GNN](notebooks/nb16-performance-gnn.ipynb)
 - Experimente und Auswertungen
-  - Vorbereitungen
-    - [Notebook 15 Performance](notebooks/nb15-performance.ipynb)
-    - [Notebook 16 Performance GNN](notebooks/nb16-performance-gnn.ipynb)
-  - Experimente und Auswertungen
-    - [Experiment 1 Similarity Scenario A Matching Cluster - Mitarbeiter](experiments/ex01-similarity-scenario-a.ipynb)
-    - [Experiment 2 Similarity Scenario B Datensammlung - Mitarbeiter](experiments/ex02-similarity-scenario-b.ipynb)
-    - [Experiment 3 Similarity Scenario C Datensammlung - Mitarbeiter typisiert](experiments/ex03-similarity-scenario-c.ipynb)
-    - [Experiment 4 Similarity Scenario D Datensammlung - Mitarbeiter mit Organisation](experiments/ex04-similarity-scenario-d.ipynb)
-    - [Experiment 5 Similarity with Community](experiments/ex05-similarity-community.ipynb)    
-    - [Experiment 6 Node2Vec Exploration Tests](experiments/ex06-node2vec-exploration.ipynb) 
-    - [Experiment 7 Node2Vec Parameter Tests](experiments/ex07-node2vec-params.ipynb) 
-    - [Experiment 8 Node2Vec Mitarbeiter Tests](experiments/ex08-node2vec-employee.ipynb) 
-
-
-- [Referenzen](doc/references.md)
-
+  - [Experiment 1 Similarity Scenario A Matching Cluster - Mitarbeiter](experiments/ex01-similarity-scenario-a.ipynb)
+  - [Experiment 2 Similarity Scenario B Datensammlung - Mitarbeiter](experiments/ex02-similarity-scenario-b.ipynb)
+  - [Experiment 3 Similarity Scenario C Datensammlung - Mitarbeiter typisiert](experiments/ex03-similarity-scenario-c.ipynb)
+  - [Experiment 4 Similarity Scenario D Datensammlung - Mitarbeiter mit Organisation](experiments/ex04-similarity-scenario-d.ipynb)
+  - [Experiment 5 Similarity with Community](experiments/ex05-similarity-community.ipynb)    
+  - [Experiment 6 Node2Vec Exploration Tests](experiments/ex06-node2vec-exploration.ipynb) 
+  - [Experiment 7 Node2Vec Parameter Tests](experiments/ex07-node2vec-params.ipynb) 
+  - [Experiment 8 Node2Vec Mitarbeiter Tests](experiments/ex08-node2vec-employee.ipynb) 
+  - [Experiment 9 GraphSAGE Exploration Tests](experiments/ex09-graphsage-exploration.ipynb) 
+  - [Experiment 10 GraphSAGE Parameter Tests](experiments/ex10-graphsage-params.ipynb) 
+  - [Experiment 11 GraphSAGE Mitarbeiter Tests](experiments/ex11-graphsage-employee.ipynb) 
+  - [Experiment 12 GraphSAGE Node Features Tests](experiments/ex12-graphsage-features.ipynb) 
 ---
 _The end._
