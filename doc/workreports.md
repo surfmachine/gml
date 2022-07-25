@@ -120,7 +120,8 @@ Total    |   80.00h | Aufwand
 19.07.22 |    1.00h | Start Experiment 9 Runner für verschiedene Konfigurationen
 20.07.22 |    0.50h | Statusbericht Zwischenstand erstellt
 22.07.22 |    5.50h | Tests mit GraphSage im playground, Start Bericht Experiment 9
-23.07.22 |    4.00h | GraphSAGE Experiment 9, Start Bericht Experiment 
+23.07.22 |    4.00h | GraphSAGE Experiment 9, Start Bericht 
+25.07.22 |    8.00h | Graph Sage Experimente 10-12, Bericht 
 
 
 
