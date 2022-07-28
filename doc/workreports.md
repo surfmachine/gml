@@ -123,6 +123,7 @@ Total    |   80.00h | Aufwand
 23.07.22 |    4.00h | GraphSAGE Experiment 9, Start Bericht 
 25.07.22 |    8.00h | Graph Sage Experimente 10-12, Bericht 
 27.07.22 |    4.00h | Korrekturlesen und Anpassungen Bericht Kapitel 1-3
+28.07.22 |    4.00h | Korrekturlesen und Anpassungen Kapitel 4-6
 
 
 
