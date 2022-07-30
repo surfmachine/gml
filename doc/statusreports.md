@@ -28,9 +28,10 @@ Erledigte Arbeiten:
 - Bericht Kapitel 6 Experimente und Auswertungen erstellt
 
 Nächste Schritte:
-- Bericht Korrekturlesen 
-- Bericht Kapitel Fazit und Ausblick erstellen
-- Bericht Management Summary erstellen
+- **19.08.22 13.00h, Review 2 mit Experten und Betreuer**
+- Fertigstellung Bericht bis Ende August
+- Festlegung Termin für Präsentation Master Thesis
+
 
 ## Juni 2022
 

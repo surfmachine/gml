@@ -10,7 +10,7 @@ Q4/21-Q1/22|       40.00h |      40.50h |      40.00h |      40.50h
 März/April |       40.00h |      39.00h |      80.00h |      79.50h
 Mai        |       96.00h |      98.50h |     176.50h |     178.00h
 Juni       |       64.00h |      80.00h |     240.00h |     258.00h
-Juli       |       64.00h |             |     304.00h |           
+Juli       |       64.00h |      78.00h |     304.00h |     336.00h         
 August     |       48.00h |             |     352.00h |     
 September  |       48.00h |             |     400.00h |   
 
@@ -125,9 +125,8 @@ Total    |   80.00h | Aufwand
 27.07.22 |    4.00h | Korrekturlesen und Anpassungen Bericht Kapitel 1-3
 28.07.22 |    4.00h | Korrekturlesen und Anpassungen Kapitel 4-6
 29.07.22 |    5.00h | Bericht Experiment 9-12
-
-
-
+30.07.22 |    1.00h | Statusbericht
+Total    |   78.00h | Aufwand
 
 ---
 [Zum Hauptmenu](../README.md)
