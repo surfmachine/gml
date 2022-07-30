@@ -7,11 +7,11 @@ Status per 30.07.2022:
 - Die geplanten Stunden im Juli wurde übertroffen. Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt ist der [Grobplanung](planning.md) voraus.
 - Ein Abschluss des Berichts auf Ende August ist realistisch. 
-- Die [Arbeitspakete 7 und 8](workpackages.md) wurden abgeschlossen.
 - Mit der Durchführung der Experimente konnte der zweite wichtige Teil der Arbeit abgeschlossen werden.
 
 Erledigte Arbeiten:
 - Abschluss [Arbeitspaket 7 Experimente durchführen](workpackages.md)
+- Abschluss [Arbeitspaket 8 Auswertungen erstellen](workpackages.md)
 - Implementation [Data Factory Klassen](../graph/data_factory.py) EdgeLabelFactory und TestTrainDataFactory
 - [Experiment 01 Similarity based Scenario A](../experiments/ex01-similarity-scenario-a.ipynb)
 - [Experiment 02 Similarity based Scenario B](../experiments/ex02-similarity-scenario-b.ipynb)
