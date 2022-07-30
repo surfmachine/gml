@@ -13,7 +13,7 @@ Nr | Storie                                         | Status
  5 | Taxonomie Link Prediction                      | :white_check_mark: 
  6 | Testumgebung bereitstellen                     | :white_check_mark:
  7 | Experimente durchführen                        | :white_check_mark:
- 8 | Auswertungen erstellen                         | :arrows_clockwise:
+ 8 | Auswertungen erstellen                         | :white_check_mark:
  9 | Bericht und Bookeintrag verfassen              | :arrows_clockwise:
 10 | Präsentation erstellen                         | :black_square_button:
 
@@ -101,7 +101,7 @@ Sammeln von Fragestellungen und Vermutungen. Planung und Durchführung der Exper
 Die Ergebnisse werden aufbereittet und die Resultate werden interpretiert. Die verwendeten Link Prediction Ansätze werden untereinander verglichen und dem regelbasierten Ansatz der EDC Anwendung gegenübergestellt.
 
 **Ergebnisse:**
-- Die Ergebnisse sind aufbereitet, ausgewertet und dokumentiert. :arrows_clockwise: 
+- Die Ergebnisse sind aufbereitet, ausgewertet und dokumentiert. :white_check_mark:
 
 
 ## 9. Bericht und Bookeintrag verfassen
