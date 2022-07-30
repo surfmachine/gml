@@ -7,7 +7,7 @@ Status per 30.07.2022:
 - Die geplanten Stunden im Juli wurde übertroffen. Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt ist der [Grobplanung](planning.md) voraus.
 - Ein Abschluss des Berichts auf Ende August ist realistisch. 
-- Ein weiteres [Arbeitspakete](workpackages.md) konnte abgeschlossen werden.
+- Die [Arbeitspakete 7 und 8](workpackages.md) wurden abgeschlossen.
 - Mit der Durchführung der Experimente konnte der zweite wichtige Teil der Arbeit abgeschlossen werden.
 
 Erledigte Arbeiten:
