@@ -128,5 +128,12 @@ Total    |   80.00h | Aufwand
 30.07.22 |    1.00h | Statusbericht
 Total    |   78.00h | Aufwand
 
+### August
+
+ Datum   | Aufwand  | Arbeit
+-------- | -------- | ---------------------------------------------------------------
+01.08.22 |    4.00h | Bericht Zielereichung
+
+
 ---
 [Zum Hauptmenu](../README.md)
