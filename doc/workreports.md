@@ -133,6 +133,7 @@ Total    |   78.00h | Aufwand
  Datum   | Aufwand  | Arbeit
 -------- | -------- | ---------------------------------------------------------------
 01.08.22 |    4.00h | Bericht Zielereichung
+02.08.22 |    3.50h | Bericht Schlussbemerkugen
 
 
 ---
