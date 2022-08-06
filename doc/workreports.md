@@ -134,7 +134,12 @@ Total    |   78.00h | Aufwand
 -------- | -------- | ---------------------------------------------------------------
 01.08.22 |    4.00h | Bericht Zielereichung
 02.08.22 |    3.50h | Bericht Schlussbemerkugen
+03.08.22 |    1.00h | Korrekturlesen Kapitel 6.5 bis Kapitel 8
+04.08.22 |    1.50h | Bericht Umgestaltung Zielerreichung und Ergänzung mit Empfehlung
+05.08.22 |    4.00h | Bericht Management Summary, Anpassungen Schlussbemerkungen
+06.08.22 |    2.00h | Anpassungen Bericht, Versand Einladungen für Präsentation 
 
+16
 
 ---
 [Zum Hauptmenu](../README.md)
