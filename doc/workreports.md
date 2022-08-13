@@ -138,8 +138,8 @@ Total    |   78.00h | Aufwand
 04.08.22 |    1.50h | Bericht Umgestaltung Zielerreichung und Ergänzung mit Empfehlung
 05.08.22 |    4.00h | Bericht Management Summary, Anpassungen Schlussbemerkungen
 06.08.22 |    2.00h | Anpassungen Bericht, Versand Einladungen für Präsentation 
+12.08.22 |    0.75h | Besprechung mit Mathias Dehmer
 
-16
 
 ---
 [Zum Hauptmenu](../README.md)
