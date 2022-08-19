@@ -139,7 +139,8 @@ Total    |   78.00h | Aufwand
 05.08.22 |    4.00h | Bericht Management Summary, Anpassungen Schlussbemerkungen
 06.08.22 |    2.00h | Anpassungen Bericht, Versand Einladungen für Präsentation 
 12.08.22 |    0.75h | Besprechung mit Mathias Dehmer
-
+16.08.22 |    6.25h | Korrekturlesen Bericht
+19.08.22 |    1.00h | Experten Review II, Besprechung Experten und Betreuer
 
 ---
 [Zum Hauptmenu](../README.md)

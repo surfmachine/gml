@@ -117,7 +117,7 @@ Strukturierung und Erstellung Bericht gemäss den  Vorgaben der BFH. Durchführu
 - Bericht Experimente und Auswertungen      :white_check_mark:
 - Bericht Fazit und Ausblick                :arrows_clockwise:
 - Bericht Management Summary                :arrows_clockwise:
-- Plagatisprüfung durchgeführt
+- Plagatisprüfung durchgeführt              :arrows_clockwise:
 - Bookeintrag erstellt
 
 ## 10. Präsentation erstellen
