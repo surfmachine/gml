@@ -141,6 +141,7 @@ Total    |   78.00h | Aufwand
 12.08.22 |    0.75h | Besprechung mit Mathias Dehmer
 16.08.22 |    6.25h | Korrekturlesen Bericht
 19.08.22 |    1.00h | Experten Review II, Besprechung Experten und Betreuer
+25.08.22 |    8.00h | Experiment08 mit Threshold, Korrekturlesen und Anpassungen Bericht
 
 ---
 [Zum Hauptmenu](../README.md)
