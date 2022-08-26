@@ -47,6 +47,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 - Vorbereitung Experimente
   - [Notebook 15 Performance](notebooks/nb15-performance.ipynb)
   - [Notebook 16 Performance GNN](notebooks/nb16-performance-gnn.ipynb)
+  - [Notebook 17 Analyse Testdaten](notebooks/nb17-test-data-analysis.ipynb)
 - Experimente und Auswertungen
   - [Experiment 1 Similarity Scenario A Matching Cluster - Mitarbeiter](experiments/ex01-similarity-scenario-a.ipynb)
   - [Experiment 2 Similarity Scenario B Datensammlung - Mitarbeiter](experiments/ex02-similarity-scenario-b.ipynb)
