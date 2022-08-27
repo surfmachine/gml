@@ -141,8 +141,8 @@ Total    |   78.00h | Aufwand
 12.08.22 |    0.75h | Besprechung mit Mathias Dehmer
 16.08.22 |    6.25h | Korrekturlesen Bericht
 19.08.22 |    1.00h | Experten Review II, Besprechung Experten und Betreuer
-25.08.22 |    6.00h | Experiment08 mit Threshold, Korrekturlesen und Anpassungen Bericht
-26.08.22 |    2.50h | Notebook 17 Analyse Testdaten, Ergänzung Doku Kapitel 6.1.3 Testdaten
+25.08.22 |    6.00h | Experiment08 mit Threshold, Korrekturlesen und Anpassungen Bericht (Aufgrund Fragen von Review II)
+26.08.22 |    2.50h | Notebook 17 Analyse Testdaten, Ergänzung Doku Kapitel 6.1.3 Testdaten (Aufgrund Fragen von Review II)
 
 ---
 [Zum Hauptmenu](../README.md)
