@@ -142,7 +142,7 @@ Total    |   78.00h | Aufwand
 16.08.22 |    6.25h | Korrekturlesen Bericht
 19.08.22 |    1.00h | Experten Review II, Besprechung Experten und Betreuer
 25.08.22 |    6.00h | Experiment08 mit Threshold, Korrekturlesen und Anpassungen Bericht
-26.08.22 |    2.50h | Notebook 17 Analyse Testdaten (Symetrie)
+26.08.22 |    2.50h | Notebook 17 Analyse Testdaten, Ergänzung Doku Kapitel 6.1.3 Testdaten
 
 ---
 [Zum Hauptmenu](../README.md)
