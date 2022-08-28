@@ -11,7 +11,7 @@ März/April |       40.00h |      39.00h |      80.00h |      79.50h
 Mai        |       96.00h |      98.50h |     176.50h |     178.00h
 Juni       |       64.00h |      80.00h |     240.00h |     258.00h
 Juli       |       64.00h |      78.00h |     304.00h |     336.00h         
-August     |       48.00h |             |     352.00h |     
+August     |       48.00h |      40.50h |     352.00h |     376.50h
 September  |       48.00h |             |     400.00h |   
 
 Die Soll Aufwände ergeben sich aus der [Grobplanung](planning.md).
@@ -143,6 +143,8 @@ Total    |   78.00h | Aufwand
 19.08.22 |    1.00h | Experten Review II, Besprechung Experten und Betreuer
 25.08.22 |    6.50h | Experiment08 mit Threshold, Korrekturlesen und Anpassungen Bericht (Aufgrund Fragen von Review II)
 26.08.22 |    2.50h | Notebook 17 Analyse Testdaten, Ergänzung Doku Kapitel 6.1.3 Testdaten (Aufgrund Fragen von Review II)
+29.08.22 |    7.50h | Bericht Fertigstellung und Abgabe Version 1.0,  Statusbericht
+Total    |   40.50h | Aufwand
 
 ---
 [Zum Hauptmenu](../README.md)
