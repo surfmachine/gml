@@ -18,7 +18,7 @@ Erledigte Arbeiten:
 
 Nächste Schritte:
 - Erstellung und Abschluss Bookeintrag
-- **19.09.22, 10.30h Präsentation und Abschluss Master Thesis**
+- **19.09.22, 10.30h Präsentation Master Thesis**
 
 ## Juli 2022
 Status per 30.07.2022:
