@@ -3,38 +3,22 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 # Statusberichte
 
 ## August 2022
+
 Status per 29.08.2022:
-- Die geplanten Stunden im Juli wurde übertroffen. Details siehe [Arbeitsrapporte](workreports.md).
+- Die geplanten Arbeiten im August konnten geleistet werden. 
+  Details siehe [Arbeitsrapporte](workreports.md).
 - Der Arbeitsfortschritt ist der [Grobplanung](planning.md) voraus.
-- Ein Abschluss des Berichts auf Ende August ist realistisch. 
-- Mit der Durchführung der Experimente konnte der zweite wichtige Teil der Arbeit abgeschlossen werden.
+- Der zweite Review mit den Experten und dem Betreuer wurde am 19. August durchgeführt.
+  Aufgrund des Review Feedbacks wurde Notebook 17 erstellt und Experiment 8 ergänzt.
 
 Erledigte Arbeiten:
-- [Notebook 17 Performance GNN](../notebooks/nb16-performance-gnn.ipynb)
-- 
-- Abschluss [Arbeitspaket 7 Experimente durchführen](workpackages.md)
-- Abschluss [Arbeitspaket 8 Auswertungen erstellen](workpackages.md)
-- Implementation [Data Factory Klassen](../graph/data_factory.py) EdgeLabelFactory und TestTrainDataFactory
-- [Experiment 01 Similarity based Scenario A](../experiments/ex01-similarity-scenario-a.ipynb)
-- [Experiment 02 Similarity based Scenario B](../experiments/ex02-similarity-scenario-b.ipynb)
-- [Experiment 03 Similarity based Scenario C](../experiments/ex03-similarity-scenario-c.ipynb)
-- [Experiment 04 Similarity based Scenario D](../experiments/ex04-similarity-scenario-d.ipynb)
-- [Experiment 05 Similarity community](../experiments/ex05-similarity-community.ipynb)
-- [Experiment 06 Node2Vec Exploration](../experiments/ex06-node2vec-exploration.ipynb)
-- [Experiment 07 Node2Vec Parameters](../experiments/ex07-node2vec-params.ipynb)
-- [Experiment 08 Node2Vec Employee](../experiments/ex08-node2vec-employee.ipynb)
-- [Experiment 09 GraphSAGE Exploration Tests](../experiments/ex09-graphsage-exploration.ipynb) 
-- [Experiment 10 GraphSAGE Parameter Tests](../experiments/ex10-graphsage-params.ipynb) 
-- [Experiment 11 GraphSAGE Mitarbeiter Tests](../experiments/ex11-graphsage-employee.ipynb) 
-- [Experiment 12 GraphSAGE Node Features Tests](../experiments/ex12-graphsage-features.ipynb) 
-- Bericht Kapitel 6 Experimente und Auswertungen erstellt
+- [Notebook 17 Test Data Analysis](../notebooks/nb17-test-data-analysis.ipynb)
+- [Experiment 08 Node2Vec Employee with Threshold](../experiments/ex08-node2vec-employee.ipynb)
+- Abschluss Bericht Version 1.0
 
 Nächste Schritte:
-- **19.08.22 13.00h, Review 2 mit Experten und Betreuer**
-- Fertigstellung Bericht bis Ende August
-- Festlegung Termin für Präsentation Master Thesis
-
-
+- Erstellung und Abschluss Bookeintrag
+- **19.09.22, 10.30h Präsentation und Abschluss Master Thesis**
 
 ## Juli 2022
 Status per 30.07.2022:
