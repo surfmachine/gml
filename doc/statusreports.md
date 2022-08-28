@@ -17,7 +17,8 @@ Erledigte Arbeiten:
 - Abschluss Bericht Version 1.0
 
 Nächste Schritte:
-- Erstellung und Abschluss Bookeintrag
+- Erstellung Bookeintrag
+- Erstellung Präsentation
 - **19.09.22, 10.30h Präsentation Master Thesis**
 
 ## Juli 2022
