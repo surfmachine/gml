@@ -14,7 +14,7 @@ Nr | Storie                                         | Status
  6 | Testumgebung bereitstellen                     | :white_check_mark:
  7 | Experimente durchführen                        | :white_check_mark:
  8 | Auswertungen erstellen                         | :white_check_mark:
- 9 | Bericht und Bookeintrag verfassen              | :arrows_clockwise:
+ 9 | Bericht und Bookeintrag verfassen              | :white_check_mark:
 10 | Präsentation erstellen                         | :arrows_clockwise:
 
 
@@ -117,7 +117,7 @@ Strukturierung und Erstellung Bericht gemäss den  Vorgaben der BFH. Durchführu
 - Bericht Experimente und Auswertungen      :white_check_mark:
 - Bericht Fazit und Ausblick                :white_check_mark:
 - Bericht Management Summary                :white_check_mark:
-- Bookeintrag erstellt                      :arrows_clockwise:
+- Bookeintrag erstellt                      :white_check_mark:
 
 ## 10. Präsentation erstellen
 

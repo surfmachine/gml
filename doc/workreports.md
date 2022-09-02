@@ -146,5 +146,11 @@ Total    |   78.00h | Aufwand
 29.08.22 |    7.50h | Bericht Fertigstellung und Abgabe Version 1.0,  Statusbericht
 Total    |   40.50h | Aufwand
 
+### September
+
+ Datum   | Aufwand  | Arbeit
+-------- | -------- | ---------------------------------------------------------------
+
+
 ---
 [Zum Hauptmenu](../README.md)
