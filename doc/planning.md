@@ -11,7 +11,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 |  3  | Grundlagen Graphen und Graph ML, Testdaten bereit  | 31.05.22 | :white_check_mark: 
 |  4  | Experimente Link Prediction durchgeführt           | 31.07.22 | :white_check_mark:
 |  5  | Review II mit Experten                             | 19.08.22 | :white_check_mark:
-|  6  | Abgabetermin Master Thesis und Bookeintrag         | 12.09.22 | :arrows_clockwise:
+|  6  | Abgabetermin Master Thesis und Bookeintrag         | 12.09.22 | :white_check_mark:
 |  7  | Präsentation und Verteidigung                      | 19.09.22 | :arrows_clockwise:
 
 ## Grobplanung
