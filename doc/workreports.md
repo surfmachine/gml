@@ -150,6 +150,7 @@ Total    |   40.50h | Aufwand
 
  Datum   | Aufwand  | Arbeit
 -------- | -------- | ---------------------------------------------------------------
+05.09.22 |    6.00h | Bookeintrag und Start Folien Präsentation
 
 
 ---
