@@ -2,6 +2,19 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 
 # Statusberichte
 
+## September 2022
+
+Status per 19.09.2022:
+**Die Master Thesis wurde mit der Präsentation vom 19.09.2022 abgeschlossen.**
+
+Erledigte Arbeiten:
+- Bericht erstellt und abgegeben
+- Bookeintrag erstellt und abgebeben
+- Präsentation Master Thesis erstellt und durchgeführt
+
+Nächste Schritte:
+- Ferien am Meer und ein Buch lesen
+
 ## August 2022
 
 Status per 29.08.2022:

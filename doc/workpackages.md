@@ -15,7 +15,7 @@ Nr | Storie                                         | Status
  7 | Experimente durchführen                        | :white_check_mark:
  8 | Auswertungen erstellen                         | :white_check_mark:
  9 | Bericht und Bookeintrag verfassen              | :white_check_mark:
-10 | Präsentation erstellen                         | :arrows_clockwise:
+10 | Präsentation erstellen                         | :white_check_mark:
 
 
 ## Details
@@ -125,10 +125,9 @@ Strukturierung und Erstellung Bericht gemäss den  Vorgaben der BFH. Durchführu
 Erstellung Präsentation mit Folien und Live Session / Demo. Vorbereitung Fragen und Antworten für Verteidigung der Arbeit.
 
 **Ergebnisse:**
-- Folienpräsentation erstellt                                       :arrows_clockwise:
-- Live Session Ablauf definiert und vorbereitet                     :white_medium_square:
-- Script mit Stichworten für Präsentation erstellt und eingeübt     :white_medium_square:
-- Backup Folien für Verteidigung Arbeit bereit                      :arrows_clockwise:
+- Folienpräsentation erstellt                      :white_check_mark:                
+- Script mit Stichworten für Präsentation erstellt :white_check_mark:
+- Backup Folien für Verteidigung Arbeit bereit     :white_check_mark:
 
 ---
 [Zum Hauptmenu](../README.md)
