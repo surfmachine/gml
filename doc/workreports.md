@@ -12,10 +12,10 @@ Mai        |       96.00h |      98.50h |     176.50h |     178.00h
 Juni       |       64.00h |      80.00h |     240.00h |     258.00h
 Juli       |       64.00h |      78.00h |     304.00h |     336.00h         
 August     |       48.00h |      40.50h |     352.00h |     376.50h
-September  |       48.00h |      18.50h |     400.00h |     396.00h
+September  |       48.00h |      23.50h |     400.00h |     401.00h
 
 Die Soll Aufwände ergeben sich aus der [Grobplanung](planning.md).<br />
-**Mit einem Total Ist von 396h beträgt der geleistete Aufwand 49.50 Tage.**
+**Mit einem Total Ist von 401h beträgt der geleistete Aufwand 50 Tage.**
 
 ## Aufwände
 
@@ -153,8 +153,9 @@ Total    |   40.50h | Aufwand
 -------- | -------- | ---------------------------------------------------------------
 05.09.22 |    6.50h | Bookeintrag und Start Folien Präsentation
 12.09.22 |    8.00h | Fertigstellgung Folien Präsentation
+17.09.22 |    5.00h | Überarbeitung Präsentation, Grafik Fehler in Bericht korrigiert. Abgabe Bericht Version 1.1 vp, 17.09.2022
 19.09.22 |    4.00h | Präsentation Master-Thesis, Abschlussarbeiten Projekt
-Total    |   18.50h | Aufwand
+Total    |   23.50h | Aufwand
 
 
 ---
