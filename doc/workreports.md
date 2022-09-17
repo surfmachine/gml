@@ -14,7 +14,7 @@ Juli       |       64.00h |      78.00h |     304.00h |     336.00h
 August     |       48.00h |      40.50h |     352.00h |     376.50h
 September  |       48.00h |      18.50h |     400.00h |     396.00h
 
-Die Soll Aufwände ergeben sich aus der [Grobplanung](planning.md):
+Die Soll Aufwände ergeben sich aus der [Grobplanung](planning.md).<br />
 **Mit einem Total Ist von 396h beträgt der geleistete Aufwand 49.50 Tage.**
 
 ## Aufwände
