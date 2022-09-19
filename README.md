@@ -47,7 +47,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
 - Vorbereitung Experimente
   - [Notebook 15 Performance](notebooks/nb15-performance.ipynb)
   - [Notebook 16 Performance GNN](notebooks/nb16-performance-gnn.ipynb)
-  - [Notebook 17 Analyse Testdaten](notebooks/nb17-test-data-analysis.ipynb) (Frage Review 2)
+  - [Notebook 17 Analyse Testdaten](notebooks/nb17-test-data-analysis.ipynb) 
 - Experimente und Auswertungen
   - [Experiment 1 Similarity Scenario A Matching Cluster - Mitarbeiter](experiments/ex01-similarity-scenario-a.ipynb)
   - [Experiment 2 Similarity Scenario B Datensammlung - Mitarbeiter](experiments/ex02-similarity-scenario-b.ipynb)
@@ -56,7 +56,7 @@ Berner Fachhochschule BFH - MAS Data Science - Graph Machine Learning - Master T
   - [Experiment 5 Similarity with Community](experiments/ex05-similarity-community.ipynb)    
   - [Experiment 6 Node2Vec Exploration Tests](experiments/ex06-node2vec-exploration.ipynb) 
   - [Experiment 7 Node2Vec Parameter Tests](experiments/ex07-node2vec-params.ipynb) 
-  - [Experiment 8 Node2Vec Mitarbeiter Tests](experiments/ex08-node2vec-employee.ipynb) (Frage Review 2)
+  - [Experiment 8 Node2Vec Mitarbeiter Tests](experiments/ex08-node2vec-employee.ipynb) 
   - [Experiment 9 GraphSAGE Exploration Tests](experiments/ex09-graphsage-exploration.ipynb) 
   - [Experiment 10 GraphSAGE Parameter Tests](experiments/ex10-graphsage-params.ipynb) 
   - [Experiment 11 GraphSAGE Mitarbeiter Tests](experiments/ex11-graphsage-employee.ipynb) 
